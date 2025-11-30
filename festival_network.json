@@ -5,6 +5,8 @@
   "nodes": [
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "1971",
       "id": "roskilde-festival-1971"
     },
     {
@@ -141,6 +143,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "1972",
       "id": "roskilde-festival-1972"
     },
     {
@@ -237,6 +241,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "1973",
       "id": "roskilde-festival-1973"
     },
     {
@@ -313,6 +319,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "1974",
       "id": "roskilde-festival-1974"
     },
     {
@@ -425,6 +433,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "1975",
       "id": "roskilde-festival-1975"
     },
     {
@@ -573,6 +583,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "1976",
       "id": "roskilde-festival-1976"
     },
     {
@@ -693,6 +705,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "1977",
       "id": "roskilde-festival-1977"
     },
     {
@@ -809,6 +823,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "1978",
       "id": "roskilde-festival-1978"
     },
     {
@@ -937,6 +953,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "1979",
       "id": "roskilde-festival-1979"
     },
     {
@@ -1085,6 +1103,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "1980",
       "id": "roskilde-festival-1980"
     },
     {
@@ -1237,6 +1257,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "smukfest",
+      "year": "1980",
       "id": "smukfest-1980"
     },
     {
@@ -1273,6 +1295,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "1981",
       "id": "roskilde-festival-1981"
     },
     {
@@ -1453,6 +1477,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "smukfest",
+      "year": "1981",
       "id": "smukfest-1981"
     },
     {
@@ -1481,6 +1507,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "1982",
       "id": "roskilde-festival-1982"
     },
     {
@@ -1665,6 +1693,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "smukfest",
+      "year": "1982",
       "id": "smukfest-1982"
     },
     {
@@ -1709,6 +1739,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "1983",
       "id": "roskilde-festival-1983"
     },
     {
@@ -1913,6 +1945,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "smukfest",
+      "year": "1983",
       "id": "smukfest-1983"
     },
     {
@@ -1953,6 +1987,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "1984",
       "id": "roskilde-festival-1984"
     },
     {
@@ -2133,6 +2169,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "smukfest",
+      "year": "1996",
       "id": "smukfest-1996"
     },
     {
@@ -2301,6 +2339,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "smukfest",
+      "year": "1984",
       "id": "smukfest-1984"
     },
     {
@@ -2341,6 +2381,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "1985",
       "id": "roskilde-festival-1985"
     },
     {
@@ -2513,6 +2555,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "smukfest",
+      "year": "1985",
       "id": "smukfest-1985"
     },
     {
@@ -2537,6 +2581,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "1986",
       "id": "roskilde-festival-1986"
     },
     {
@@ -2705,6 +2751,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "smukfest",
+      "year": "1986",
       "id": "smukfest-1986"
     },
     {
@@ -2745,6 +2793,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "1987",
       "id": "roskilde-festival-1987"
     },
     {
@@ -2893,6 +2943,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "smukfest",
+      "year": "1987",
       "id": "smukfest-1987"
     },
     {
@@ -2937,6 +2989,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "1988",
       "id": "roskilde-festival-1988"
     },
     {
@@ -3021,6 +3075,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "1989",
       "id": "roskilde-festival-1989"
     },
     {
@@ -3329,6 +3385,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "smukfest",
+      "year": "1989",
       "id": "smukfest-1989"
     },
     {
@@ -3393,6 +3451,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "1990",
       "id": "roskilde-festival-1990"
     },
     {
@@ -3633,6 +3693,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "smukfest",
+      "year": "1990",
       "id": "smukfest-1990"
     },
     {
@@ -3681,6 +3743,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "1991",
       "id": "roskilde-festival-1991"
     },
     {
@@ -3977,6 +4041,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "smukfest",
+      "year": "1991",
       "id": "smukfest-1991"
     },
     {
@@ -4085,6 +4151,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "1992",
       "id": "roskilde-festival-1992"
     },
     {
@@ -4373,6 +4441,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "smukfest",
+      "year": "1992",
       "id": "smukfest-1992"
     },
     {
@@ -4421,6 +4491,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "1993",
       "id": "roskilde-festival-1993"
     },
     {
@@ -4785,6 +4857,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "smukfest",
+      "year": "1993",
       "id": "smukfest-1993"
     },
     {
@@ -4861,6 +4935,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "1994",
       "id": "roskilde-festival-1994"
     },
     {
@@ -5253,6 +5329,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "smukfest",
+      "year": "1994",
       "id": "smukfest-1994"
     },
     {
@@ -5325,6 +5403,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "1995",
       "id": "roskilde-festival-1995"
     },
     {
@@ -5781,6 +5861,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "smukfest",
+      "year": "1995",
       "id": "smukfest-1995"
     },
     {
@@ -5833,6 +5915,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "1996",
       "id": "roskilde-festival-1996"
     },
     {
@@ -6317,6 +6401,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "1997",
       "id": "roskilde-festival-1997"
     },
     {
@@ -6821,6 +6907,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "smukfest",
+      "year": "1997",
       "id": "smukfest-1997"
     },
     {
@@ -6909,6 +6997,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "1998",
       "id": "roskilde-festival-1998"
     },
     {
@@ -7425,6 +7515,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "smukfest",
+      "year": "1998",
       "id": "smukfest-1998"
     },
     {
@@ -7553,6 +7645,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "1999",
       "id": "roskilde-festival-1999"
     },
     {
@@ -8077,6 +8171,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "smukfest",
+      "year": "1999",
       "id": "smukfest-1999"
     },
     {
@@ -8253,6 +8349,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "2000",
       "id": "roskilde-festival-2000"
     },
     {
@@ -8809,6 +8907,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "smukfest",
+      "year": "2000",
       "id": "smukfest-2000"
     },
     {
@@ -8985,6 +9085,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "2001",
       "id": "roskilde-festival-2001"
     },
     {
@@ -9401,6 +9503,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "smukfest",
+      "year": "2001",
       "id": "smukfest-2001"
     },
     {
@@ -9517,6 +9621,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "2002",
       "id": "roskilde-festival-2002"
     },
     {
@@ -9945,6 +10051,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "smukfest",
+      "year": "2002",
       "id": "smukfest-2002"
     },
     {
@@ -10197,6 +10305,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "2003",
       "id": "roskilde-festival-2003"
     },
     {
@@ -10597,6 +10707,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "smukfest",
+      "year": "2003",
       "id": "smukfest-2003"
     },
     {
@@ -10865,6 +10977,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "2004",
       "id": "roskilde-festival-2004"
     },
     {
@@ -11389,6 +11503,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "smukfest",
+      "year": "2005",
       "id": "smukfest-2005"
     },
     {
@@ -11637,6 +11753,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "smukfest",
+      "year": "2004",
       "id": "smukfest-2004"
     },
     {
@@ -11761,6 +11879,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "2005",
       "id": "roskilde-festival-2005"
     },
     {
@@ -12285,6 +12405,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "2006",
       "id": "roskilde-festival-2006"
     },
     {
@@ -12837,6 +12959,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "smukfest",
+      "year": "2006",
       "id": "smukfest-2006"
     },
     {
@@ -13085,6 +13209,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "2007",
       "id": "roskilde-festival-2007"
     },
     {
@@ -13685,6 +13811,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "smukfest",
+      "year": "2007",
       "id": "smukfest-2007"
     },
     {
@@ -13913,6 +14041,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "2008",
       "id": "roskilde-festival-2008"
     },
     {
@@ -14549,6 +14679,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "smukfest",
+      "year": "2008",
       "id": "smukfest-2008"
     },
     {
@@ -14649,6 +14781,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "2009",
       "id": "roskilde-festival-2009"
     },
     {
@@ -15241,6 +15375,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "smukfest",
+      "year": "2009",
       "id": "smukfest-2009"
     },
     {
@@ -15429,6 +15565,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "2010",
       "id": "roskilde-festival-2010"
     },
     {
@@ -15845,6 +15983,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "smukfest",
+      "year": "2010",
       "id": "smukfest-2010"
     },
     {
@@ -16053,6 +16193,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "2011",
       "id": "roskilde-festival-2011"
     },
     {
@@ -16597,6 +16739,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "smukfest",
+      "year": "2011",
       "id": "smukfest-2011"
     },
     {
@@ -16781,6 +16925,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "2012",
       "id": "roskilde-festival-2012"
     },
     {
@@ -17401,6 +17547,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "smukfest",
+      "year": "2012",
       "id": "smukfest-2012"
     },
     {
@@ -17597,6 +17745,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "2013",
       "id": "roskilde-festival-2013"
     },
     {
@@ -18165,6 +18315,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "smukfest",
+      "year": "2013",
       "id": "smukfest-2013"
     },
     {
@@ -18329,6 +18481,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "2014",
       "id": "roskilde-festival-2014"
     },
     {
@@ -18845,6 +18999,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "smukfest",
+      "year": "2014",
       "id": "smukfest-2014"
     },
     {
@@ -18977,6 +19133,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "2015",
       "id": "roskilde-festival-2015"
     },
     {
@@ -19489,6 +19647,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "smukfest",
+      "year": "2015",
       "id": "smukfest-2015"
     },
     {
@@ -19573,6 +19733,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "2016",
       "id": "roskilde-festival-2016"
     },
     {
@@ -20129,6 +20291,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "smukfest",
+      "year": "2016",
       "id": "smukfest-2016"
     },
     {
@@ -20201,6 +20365,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "2017",
       "id": "roskilde-festival-2017"
     },
     {
@@ -20849,6 +21015,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "smukfest",
+      "year": "2017",
       "id": "smukfest-2017"
     },
     {
@@ -21261,6 +21429,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "2018",
       "id": "roskilde-festival-2018"
     },
     {
@@ -21925,6 +22095,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "smukfest",
+      "year": "2018",
       "id": "smukfest-2018"
     },
     {
@@ -22305,6 +22477,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "2023",
       "id": "roskilde-festival-2023"
     },
     {
@@ -23249,6 +23423,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "2022",
       "id": "roskilde-festival-2022"
     },
     {
@@ -23665,6 +23841,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "2019",
       "id": "roskilde-festival-2019"
     },
     {
@@ -24189,6 +24367,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "smukfest",
+      "year": "2023",
       "id": "smukfest-2023"
     },
     {
@@ -24557,6 +24737,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "2024",
       "id": "roskilde-festival-2024"
     },
     {
@@ -25217,6 +25399,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "smukfest",
+      "year": "2024",
       "id": "smukfest-2024"
     },
     {
@@ -25521,6 +25705,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "roskilde",
+      "year": "2025",
       "id": "roskilde-festival-2025"
     },
     {
@@ -25785,6 +25971,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "smukfest",
+      "year": "2025",
       "id": "smukfest-2025"
     },
     {
@@ -26133,6 +26321,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "nibe",
+      "year": "2000",
       "id": "nibe-festival-2000"
     },
     {
@@ -26173,102 +26363,152 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "nibe",
+      "year": "2001",
       "id": "nibe-festival-2001"
     },
     {
       "bipartite": "festival_year",
+      "festival": "nibe",
+      "year": "2002",
       "id": "nibe-festival-2002"
     },
     {
       "bipartite": "festival_year",
+      "festival": "nibe",
+      "year": "2003",
       "id": "nibe-festival-2003"
     },
     {
       "bipartite": "festival_year",
+      "festival": "nibe",
+      "year": "2004",
       "id": "nibe-festival-2004"
     },
     {
       "bipartite": "festival_year",
+      "festival": "nibe",
+      "year": "2005",
       "id": "nibe-festival-2005"
     },
     {
       "bipartite": "festival_year",
+      "festival": "nibe",
+      "year": "2006",
       "id": "nibe-festival-2006"
     },
     {
       "bipartite": "festival_year",
+      "festival": "nibe",
+      "year": "2007",
       "id": "nibe-festival-2007"
     },
     {
       "bipartite": "festival_year",
+      "festival": "nibe",
+      "year": "2008",
       "id": "nibe-festival-2008"
     },
     {
       "bipartite": "festival_year",
+      "festival": "nibe",
+      "year": "2009",
       "id": "nibe-festival-2009"
     },
     {
       "bipartite": "festival_year",
+      "festival": "nibe",
+      "year": "2010",
       "id": "nibe-festival-2010"
     },
     {
       "bipartite": "festival_year",
+      "festival": "nibe",
+      "year": "2011",
       "id": "nibe-festival-2011"
     },
     {
       "bipartite": "festival_year",
+      "festival": "nibe",
+      "year": "2012",
       "id": "nibe-festival-2012"
     },
     {
       "bipartite": "festival_year",
+      "festival": "nibe",
+      "year": "2013",
       "id": "nibe-festival-2013"
     },
     {
       "bipartite": "festival_year",
+      "festival": "nibe",
+      "year": "2014",
       "id": "nibe-festival-2014"
     },
     {
       "bipartite": "festival_year",
+      "festival": "nibe",
+      "year": "2015",
       "id": "nibe-festival-2015"
     },
     {
       "bipartite": "festival_year",
+      "festival": "nibe",
+      "year": "2016",
       "id": "nibe-festival-2016"
     },
     {
       "bipartite": "festival_year",
+      "festival": "nibe",
+      "year": "2017",
       "id": "nibe-festival-2017"
     },
     {
       "bipartite": "festival_year",
+      "festival": "nibe",
+      "year": "2018",
       "id": "nibe-festival-2018"
     },
     {
       "bipartite": "festival_year",
+      "festival": "nibe",
+      "year": "2019",
       "id": "nibe-festival-2019"
     },
     {
       "bipartite": "festival_year",
+      "festival": "nibe",
+      "year": "2020",
       "id": "nibe-festival-2020"
     },
     {
       "bipartite": "festival_year",
+      "festival": "nibe",
+      "year": "2021",
       "id": "nibe-festival-2021"
     },
     {
       "bipartite": "festival_year",
+      "festival": "nibe",
+      "year": "2022",
       "id": "nibe-festival-2022"
     },
     {
       "bipartite": "festival_year",
+      "festival": "nibe",
+      "year": "2023",
       "id": "nibe-festival-2023"
     },
     {
       "bipartite": "festival_year",
+      "festival": "nibe",
+      "year": "2024",
       "id": "nibe-festival-2024"
     },
     {
       "bipartite": "festival_year",
+      "festival": "jelling",
+      "year": "2003",
       "id": "jelling-musikfestival-2003"
     },
     {
@@ -26277,6 +26517,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "jelling",
+      "year": "2002",
       "id": "jelling-musikfestival-2002"
     },
     {
@@ -26285,18 +26527,26 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "jelling",
+      "year": "2001",
       "id": "jelling-musikfestival-2001"
     },
     {
       "bipartite": "festival_year",
+      "festival": "jelling",
+      "year": "2000",
       "id": "jelling-musikfestival-2000"
     },
     {
       "bipartite": "festival_year",
+      "festival": "jelling",
+      "year": "1999",
       "id": "jelling-musikfestival-1999"
     },
     {
       "bipartite": "festival_year",
+      "festival": "jelling",
+      "year": "1998",
       "id": "jelling-musikfestival-1998"
     },
     {
@@ -26305,6 +26555,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "jelling",
+      "year": "1997",
       "id": "jelling-musikfestival-1997"
     },
     {
@@ -26313,18 +26565,26 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "jelling",
+      "year": "1996",
       "id": "jelling-musikfestival-1996"
     },
     {
       "bipartite": "festival_year",
+      "festival": "jelling",
+      "year": "1995",
       "id": "jelling-musikfestival-1995"
     },
     {
       "bipartite": "festival_year",
+      "festival": "jelling",
+      "year": "1994",
       "id": "jelling-musikfestival-1994"
     },
     {
       "bipartite": "festival_year",
+      "festival": "jelling",
+      "year": "2025",
       "id": "jelling-musikfestival-2025"
     },
     {
@@ -26341,6 +26601,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "jelling",
+      "year": "2024",
       "id": "jelling-musikfestival-2024"
     },
     {
@@ -26353,6 +26615,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "jelling",
+      "year": "2023",
       "id": "jelling-musikfestival-2023"
     },
     {
@@ -26401,6 +26665,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "jelling",
+      "year": "2022",
       "id": "jelling-musikfestival-2022"
     },
     {
@@ -26429,6 +26695,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "jelling",
+      "year": "2019",
       "id": "jelling-musikfestival-2019"
     },
     {
@@ -26465,6 +26733,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "jelling",
+      "year": "2018",
       "id": "jelling-musikfestival-2018"
     },
     {
@@ -26485,6 +26755,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "jelling",
+      "year": "2017",
       "id": "jelling-musikfestival-2017"
     },
     {
@@ -26497,6 +26769,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "jelling",
+      "year": "2016",
       "id": "jelling-musikfestival-2016"
     },
     {
@@ -26529,6 +26803,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "jelling",
+      "year": "2015",
       "id": "jelling-musikfestival-2015"
     },
     {
@@ -26601,6 +26877,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "jelling",
+      "year": "2014",
       "id": "jelling-musikfestival-2014"
     },
     {
@@ -26661,6 +26939,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "jelling",
+      "year": "2013",
       "id": "jelling-musikfestival-2013"
     },
     {
@@ -26673,6 +26953,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "jelling",
+      "year": "2012",
       "id": "jelling-musikfestival-2012"
     },
     {
@@ -26685,6 +26967,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "jelling",
+      "year": "2011",
       "id": "jelling-musikfestival-2011"
     },
     {
@@ -26697,6 +26981,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "jelling",
+      "year": "2010",
       "id": "jelling-musikfestival-2010"
     },
     {
@@ -26705,26 +26991,38 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "jelling",
+      "year": "2009",
       "id": "jelling-musikfestival-2009"
     },
     {
       "bipartite": "festival_year",
+      "festival": "jelling",
+      "year": "2008",
       "id": "jelling-musikfestival-2008"
     },
     {
       "bipartite": "festival_year",
+      "festival": "jelling",
+      "year": "2007",
       "id": "jelling-musikfestival-2007"
     },
     {
       "bipartite": "festival_year",
+      "festival": "jelling",
+      "year": "2006",
       "id": "jelling-musikfestival-2006"
     },
     {
       "bipartite": "festival_year",
+      "festival": "jelling",
+      "year": "2005",
       "id": "jelling-musikfestival-2005"
     },
     {
       "bipartite": "festival_year",
+      "festival": "jelling",
+      "year": "2004",
       "id": "jelling-musikfestival-2004"
     },
     {
@@ -26733,10 +27031,14 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "vig",
+      "year": "1998",
       "id": "vig-festival-1998"
     },
     {
       "bipartite": "festival_year",
+      "festival": "vig",
+      "year": "2024",
       "id": "vig-festival-2024"
     },
     {
@@ -26745,14 +27047,20 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "vig",
+      "year": "2019",
       "id": "vig-festival-2019"
     },
     {
       "bipartite": "festival_year",
+      "festival": "vig",
+      "year": "2018",
       "id": "vig-festival-2018"
     },
     {
       "bipartite": "festival_year",
+      "festival": "vig",
+      "year": "2017",
       "id": "vig-festival-2017"
     },
     {
@@ -26781,10 +27089,14 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "vig",
+      "year": "2016",
       "id": "vig-festival-2016"
     },
     {
       "bipartite": "festival_year",
+      "festival": "vig",
+      "year": "2015",
       "id": "vig-festival-2015"
     },
     {
@@ -26801,46 +27113,68 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "vig",
+      "year": "2014",
       "id": "vig-festival-2014"
     },
     {
       "bipartite": "festival_year",
+      "festival": "vig",
+      "year": "2013",
       "id": "vig-festival-2013"
     },
     {
       "bipartite": "festival_year",
+      "festival": "vig",
+      "year": "2012",
       "id": "vig-festival-2012"
     },
     {
       "bipartite": "festival_year",
+      "festival": "vig",
+      "year": "2011",
       "id": "vig-festival-2011"
     },
     {
       "bipartite": "festival_year",
+      "festival": "vig",
+      "year": "2010",
       "id": "vig-festival-2010"
     },
     {
       "bipartite": "festival_year",
+      "festival": "vig",
+      "year": "2009",
       "id": "vig-festival-2009"
     },
     {
       "bipartite": "festival_year",
+      "festival": "vig",
+      "year": "2008",
       "id": "vig-festival-2008"
     },
     {
       "bipartite": "festival_year",
+      "festival": "vig",
+      "year": "2007",
       "id": "vig-festival-2007"
     },
     {
       "bipartite": "festival_year",
+      "festival": "vig",
+      "year": "2006",
       "id": "vig-festival-2006"
     },
     {
       "bipartite": "festival_year",
+      "festival": "vig",
+      "year": "2005",
       "id": "vig-festival-2005"
     },
     {
       "bipartite": "festival_year",
+      "festival": "vig",
+      "year": "2004",
       "id": "vig-festival-2004"
     },
     {
@@ -26857,26 +27191,38 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "vig",
+      "year": "2003",
       "id": "vig-festival-2003"
     },
     {
       "bipartite": "festival_year",
+      "festival": "vig",
+      "year": "2002",
       "id": "vig-festival-2002"
     },
     {
       "bipartite": "festival_year",
+      "festival": "vig",
+      "year": "2000",
       "id": "vig-festival-2000"
     },
     {
       "bipartite": "festival_year",
+      "festival": "skive",
+      "year": "2001",
       "id": "skive-festival-2001"
     },
     {
       "bipartite": "festival_year",
+      "festival": "skive",
+      "year": "2000",
       "id": "skive-festival-2000"
     },
     {
       "bipartite": "festival_year",
+      "festival": "skive",
+      "year": "1999",
       "id": "skive-festival-1999"
     },
     {
@@ -26897,10 +27243,14 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "skive",
+      "year": "1998",
       "id": "skive-festival-1998"
     },
     {
       "bipartite": "festival_year",
+      "festival": "skive",
+      "year": "1996",
       "id": "skive-festival-1996"
     },
     {
@@ -26913,6 +27263,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "skive",
+      "year": "2025",
       "id": "skive-festival-2025"
     },
     {
@@ -26973,10 +27325,14 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "skive",
+      "year": "2023",
       "id": "skive-festival-2023"
     },
     {
       "bipartite": "festival_year",
+      "festival": "skive",
+      "year": "2019",
       "id": "skive-festival-2019"
     },
     {
@@ -26989,6 +27345,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "skive",
+      "year": "2018",
       "id": "skive-festival-2018"
     },
     {
@@ -26997,10 +27355,14 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "skive",
+      "year": "2017",
       "id": "skive-festival-2017"
     },
     {
       "bipartite": "festival_year",
+      "festival": "skive",
+      "year": "2016",
       "id": "skive-festival-2016"
     },
     {
@@ -27013,18 +27375,26 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "skive",
+      "year": "2015",
       "id": "skive-festival-2015"
     },
     {
       "bipartite": "festival_year",
+      "festival": "skive",
+      "year": "2014",
       "id": "skive-festival-2014"
     },
     {
       "bipartite": "festival_year",
+      "festival": "skive",
+      "year": "2013",
       "id": "skive-festival-2013"
     },
     {
       "bipartite": "festival_year",
+      "festival": "skive",
+      "year": "2012",
       "id": "skive-festival-2012"
     },
     {
@@ -27061,10 +27431,14 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "skive",
+      "year": "2011",
       "id": "skive-festival-2011"
     },
     {
       "bipartite": "festival_year",
+      "festival": "skive",
+      "year": "2010",
       "id": "skive-festival-2010"
     },
     {
@@ -27077,6 +27451,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "skive",
+      "year": "2009",
       "id": "skive-festival-2009"
     },
     {
@@ -27085,18 +27461,26 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "skive",
+      "year": "2008",
       "id": "skive-festival-2008"
     },
     {
       "bipartite": "festival_year",
+      "festival": "skive",
+      "year": "2007",
       "id": "skive-festival-2007"
     },
     {
       "bipartite": "festival_year",
+      "festival": "skive",
+      "year": "2006",
       "id": "skive-festival-2006"
     },
     {
       "bipartite": "festival_year",
+      "festival": "skive",
+      "year": "2005",
       "id": "skive-festival-2005"
     },
     {
@@ -27109,18 +27493,26 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "skive",
+      "year": "2004",
       "id": "skive-festival-2004"
     },
     {
       "bipartite": "festival_year",
+      "festival": "skive",
+      "year": "2003",
       "id": "skive-festival-2003"
     },
     {
       "bipartite": "festival_year",
+      "festival": "skive",
+      "year": "2002",
       "id": "skive-festival-2002"
     },
     {
       "bipartite": "festival_year",
+      "festival": "rock",
+      "year": "2003",
       "id": "rock-under-broen-2003"
     },
     {
@@ -27133,10 +27525,14 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "rock",
+      "year": "2002",
       "id": "rock-under-broen-2002"
     },
     {
       "bipartite": "festival_year",
+      "festival": "rock",
+      "year": "2001",
       "id": "rock-under-broen-2001"
     },
     {
@@ -27145,6 +27541,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "rock",
+      "year": "2000",
       "id": "rock-under-broen-2000"
     },
     {
@@ -27153,6 +27551,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "rock",
+      "year": "1999",
       "id": "rock-under-broen-1999"
     },
     {
@@ -27169,6 +27569,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "rock",
+      "year": "1998",
       "id": "rock-under-broen-1998"
     },
     {
@@ -27185,6 +27587,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "rock",
+      "year": "1997",
       "id": "rock-under-broen-1997"
     },
     {
@@ -27197,6 +27601,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "rock",
+      "year": "1996",
       "id": "rock-under-broen-1996"
     },
     {
@@ -27205,10 +27611,14 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "rock",
+      "year": "1995",
       "id": "rock-under-broen-1995"
     },
     {
       "bipartite": "festival_year",
+      "festival": "rock",
+      "year": "1994",
       "id": "rock-under-broen-1994"
     },
     {
@@ -27217,6 +27627,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "rock",
+      "year": "1993",
       "id": "rock-under-broen-1993"
     },
     {
@@ -27237,6 +27649,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "rock",
+      "year": "1992",
       "id": "rock-under-broen-1992"
     },
     {
@@ -27245,30 +27659,44 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "rock",
+      "year": "1991",
       "id": "rock-under-broen-1991"
     },
     {
       "bipartite": "festival_year",
+      "festival": "rock",
+      "year": "1990",
       "id": "rock-under-broen-1990"
     },
     {
       "bipartite": "festival_year",
+      "festival": "rock",
+      "year": "1989",
       "id": "rock-under-broen-1989"
     },
     {
       "bipartite": "festival_year",
+      "festival": "rock",
+      "year": "2025",
       "id": "rock-under-broen-2025"
     },
     {
       "bipartite": "festival_year",
+      "festival": "rock",
+      "year": "2024",
       "id": "rock-under-broen-2024"
     },
     {
       "bipartite": "festival_year",
+      "festival": "rock",
+      "year": "2023",
       "id": "rock-under-broen-2023"
     },
     {
       "bipartite": "festival_year",
+      "festival": "rock",
+      "year": "2022",
       "id": "rock-under-broen-2022"
     },
     {
@@ -27277,6 +27705,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "rock",
+      "year": "2019",
       "id": "rock-under-broen-2019"
     },
     {
@@ -27289,14 +27719,20 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "rock",
+      "year": "2018",
       "id": "rock-under-broen-2018"
     },
     {
       "bipartite": "festival_year",
+      "festival": "rock",
+      "year": "2017",
       "id": "rock-under-broen-2017"
     },
     {
       "bipartite": "festival_year",
+      "festival": "rock",
+      "year": "2016",
       "id": "rock-under-broen-2016"
     },
     {
@@ -27305,10 +27741,14 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "rock",
+      "year": "2015",
       "id": "rock-under-broen-2015"
     },
     {
       "bipartite": "festival_year",
+      "festival": "rock",
+      "year": "2014",
       "id": "rock-under-broen-2014"
     },
     {
@@ -27321,6 +27761,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "rock",
+      "year": "2013",
       "id": "rock-under-broen-2013"
     },
     {
@@ -27329,14 +27771,20 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "rock",
+      "year": "2012",
       "id": "rock-under-broen-2012"
     },
     {
       "bipartite": "festival_year",
+      "festival": "rock",
+      "year": "2011",
       "id": "rock-under-broen-2011"
     },
     {
       "bipartite": "festival_year",
+      "festival": "rock",
+      "year": "2010",
       "id": "rock-under-broen-2010"
     },
     {
@@ -27345,10 +27793,14 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "rock",
+      "year": "2009",
       "id": "rock-under-broen-2009"
     },
     {
       "bipartite": "festival_year",
+      "festival": "rock",
+      "year": "2008",
       "id": "rock-under-broen-2008"
     },
     {
@@ -27361,6 +27813,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "rock",
+      "year": "2007",
       "id": "rock-under-broen-2007"
     },
     {
@@ -27369,6 +27823,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "rock",
+      "year": "2006",
       "id": "rock-under-broen-2006"
     },
     {
@@ -27377,6 +27833,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "rock",
+      "year": "2005",
       "id": "rock-under-broen-2005"
     },
     {
@@ -27389,6 +27847,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "rock",
+      "year": "2004",
       "id": "rock-under-broen-2004"
     },
     {
@@ -27397,6 +27857,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "copenhagen",
+      "year": "2004",
       "id": "copenhagen-jazz-festival-2004"
     },
     {
@@ -27417,6 +27879,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "copenhagen",
+      "year": "2003",
       "id": "copenhagen-jazz-festival-2003"
     },
     {
@@ -27453,6 +27917,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "copenhagen",
+      "year": "2002",
       "id": "copenhagen-jazz-festival-2002"
     },
     {
@@ -27473,6 +27939,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "copenhagen",
+      "year": "2001",
       "id": "copenhagen-jazz-festival-2001"
     },
     {
@@ -27485,6 +27953,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "copenhagen",
+      "year": "2000",
       "id": "copenhagen-jazz-festival-2000"
     },
     {
@@ -27497,6 +27967,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "copenhagen",
+      "year": "2025",
       "id": "copenhagen-jazz-festival-2025"
     },
     {
@@ -27565,6 +28037,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "copenhagen",
+      "year": "2024",
       "id": "copenhagen-jazz-festival-2024"
     },
     {
@@ -27573,6 +28047,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "copenhagen",
+      "year": "2023",
       "id": "copenhagen-jazz-festival-2023"
     },
     {
@@ -27629,6 +28105,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "copenhagen",
+      "year": "2022",
       "id": "copenhagen-jazz-festival-2022"
     },
     {
@@ -27661,6 +28139,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "copenhagen",
+      "year": "2021",
       "id": "copenhagen-jazz-festival-2021"
     },
     {
@@ -27669,6 +28149,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "copenhagen",
+      "year": "2019",
       "id": "copenhagen-jazz-festival-2019"
     },
     {
@@ -27689,6 +28171,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "copenhagen",
+      "year": "2018",
       "id": "copenhagen-jazz-festival-2018"
     },
     {
@@ -27721,6 +28205,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "copenhagen",
+      "year": "2017",
       "id": "copenhagen-jazz-festival-2017"
     },
     {
@@ -27749,6 +28235,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "copenhagen",
+      "year": "2016",
       "id": "copenhagen-jazz-festival-2016"
     },
     {
@@ -27785,6 +28273,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "copenhagen",
+      "year": "2015",
       "id": "copenhagen-jazz-festival-2015"
     },
     {
@@ -27817,6 +28307,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "copenhagen",
+      "year": "2014",
       "id": "copenhagen-jazz-festival-2014"
     },
     {
@@ -27853,6 +28345,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "copenhagen",
+      "year": "2013",
       "id": "copenhagen-jazz-festival-2013"
     },
     {
@@ -27861,6 +28355,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "copenhagen",
+      "year": "2012",
       "id": "copenhagen-jazz-festival-2012"
     },
     {
@@ -27877,6 +28373,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "copenhagen",
+      "year": "2011",
       "id": "copenhagen-jazz-festival-2011"
     },
     {
@@ -27889,6 +28387,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "copenhagen",
+      "year": "2010",
       "id": "copenhagen-jazz-festival-2010"
     },
     {
@@ -27897,6 +28397,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "copenhagen",
+      "year": "2009",
       "id": "copenhagen-jazz-festival-2009"
     },
     {
@@ -27905,10 +28407,14 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "copenhagen",
+      "year": "2008",
       "id": "copenhagen-jazz-festival-2008"
     },
     {
       "bipartite": "festival_year",
+      "festival": "copenhagen",
+      "year": "2007",
       "id": "copenhagen-jazz-festival-2007"
     },
     {
@@ -27925,6 +28431,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "copenhagen",
+      "year": "2006",
       "id": "copenhagen-jazz-festival-2006"
     },
     {
@@ -27933,6 +28441,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "copenhagen",
+      "year": "2005",
       "id": "copenhagen-jazz-festival-2005"
     },
     {
@@ -27945,6 +28455,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "copenhell",
+      "year": "2010",
       "id": "copenhell-2010"
     },
     {
@@ -27965,6 +28477,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "copenhell",
+      "year": "2011",
       "id": "copenhell-2011"
     },
     {
@@ -27989,6 +28503,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "copenhell",
+      "year": "2012",
       "id": "copenhell-2012"
     },
     {
@@ -28001,6 +28517,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "copenhell",
+      "year": "2013",
       "id": "copenhell-2013"
     },
     {
@@ -28037,6 +28555,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "copenhell",
+      "year": "2014",
       "id": "copenhell-2014"
     },
     {
@@ -28077,6 +28597,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "copenhell",
+      "year": "2015",
       "id": "copenhell-2015"
     },
     {
@@ -28153,6 +28675,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "copenhell",
+      "year": "2016",
       "id": "copenhell-2016"
     },
     {
@@ -28245,6 +28769,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "copenhell",
+      "year": "2017",
       "id": "copenhell-2017"
     },
     {
@@ -28325,6 +28851,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "copenhell",
+      "year": "2018",
       "id": "copenhell-2018"
     },
     {
@@ -28401,6 +28929,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "copenhell",
+      "year": "2019",
       "id": "copenhell-2019"
     },
     {
@@ -28485,6 +29015,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "copenhell",
+      "year": "2020",
       "id": "copenhell-2020"
     },
     {
@@ -28613,6 +29145,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "copenhell",
+      "year": "2021",
       "id": "copenhell-2021"
     },
     {
@@ -28629,6 +29163,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "copenhell",
+      "year": "2022",
       "id": "copenhell-2022"
     },
     {
@@ -28657,6 +29193,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "copenhell",
+      "year": "2023",
       "id": "copenhell-2023"
     },
     {
@@ -28841,6 +29379,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "copenhell",
+      "year": "2024",
       "id": "copenhell-2024"
     },
     {
@@ -28933,6 +29473,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "copenhell",
+      "year": "2025",
       "id": "copenhell-2025"
     },
     {
@@ -29069,10 +29611,14 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "groen",
+      "year": "1983",
       "id": "groen-koncert-1983"
     },
     {
       "bipartite": "festival_year",
+      "festival": "groen",
+      "year": "1984",
       "id": "groen-koncert-1984"
     },
     {
@@ -29081,6 +29627,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "groen",
+      "year": "1985",
       "id": "groen-koncert-1985"
     },
     {
@@ -29089,18 +29637,26 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "groen",
+      "year": "1986",
       "id": "groen-koncert-1986"
     },
     {
       "bipartite": "festival_year",
+      "festival": "groen",
+      "year": "1987",
       "id": "groen-koncert-1987"
     },
     {
       "bipartite": "festival_year",
+      "festival": "groen",
+      "year": "1988",
       "id": "groen-koncert-1988"
     },
     {
       "bipartite": "festival_year",
+      "festival": "groen",
+      "year": "1989",
       "id": "groen-koncert-1989"
     },
     {
@@ -29109,10 +29665,14 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "groen",
+      "year": "1990",
       "id": "groen-koncert-1990"
     },
     {
       "bipartite": "festival_year",
+      "festival": "groen",
+      "year": "1991",
       "id": "groen-koncert-1991"
     },
     {
@@ -29121,6 +29681,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "groen",
+      "year": "1992",
       "id": "groen-koncert-1992"
     },
     {
@@ -29129,18 +29691,26 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "groen",
+      "year": "1993",
       "id": "groen-koncert-1993"
     },
     {
       "bipartite": "festival_year",
+      "festival": "groen",
+      "year": "1994",
       "id": "groen-koncert-1994"
     },
     {
       "bipartite": "festival_year",
+      "festival": "groen",
+      "year": "1995",
       "id": "groen-koncert-1995"
     },
     {
       "bipartite": "festival_year",
+      "festival": "groen",
+      "year": "1996",
       "id": "groen-koncert-1996"
     },
     {
@@ -29149,18 +29719,26 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "groen",
+      "year": "1997",
       "id": "groen-koncert-1997"
     },
     {
       "bipartite": "festival_year",
+      "festival": "groen",
+      "year": "1998",
       "id": "groen-koncert-1998"
     },
     {
       "bipartite": "festival_year",
+      "festival": "groen",
+      "year": "1999",
       "id": "groen-koncert-1999"
     },
     {
       "bipartite": "festival_year",
+      "festival": "groen",
+      "year": "2000",
       "id": "groen-koncert-2000"
     },
     {
@@ -29177,30 +29755,44 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "groen",
+      "year": "2001",
       "id": "groen-koncert-2001"
     },
     {
       "bipartite": "festival_year",
+      "festival": "groen",
+      "year": "2002",
       "id": "groen-koncert-2002"
     },
     {
       "bipartite": "festival_year",
+      "festival": "groen",
+      "year": "2003",
       "id": "groen-koncert-2003"
     },
     {
       "bipartite": "festival_year",
+      "festival": "groen",
+      "year": "2004",
       "id": "groen-koncert-2004"
     },
     {
       "bipartite": "festival_year",
+      "festival": "groen",
+      "year": "2005",
       "id": "groen-koncert-2005"
     },
     {
       "bipartite": "festival_year",
+      "festival": "groen",
+      "year": "2006",
       "id": "groen-koncert-2006"
     },
     {
       "bipartite": "festival_year",
+      "festival": "groen",
+      "year": "2011",
       "id": "groen-koncert-2011"
     },
     {
@@ -29209,6 +29801,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "groen",
+      "year": "2012",
       "id": "groen-koncert-2012"
     },
     {
@@ -29217,6 +29811,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "groen",
+      "year": "2013",
       "id": "groen-koncert-2013"
     },
     {
@@ -29225,6 +29821,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "groen",
+      "year": "2014",
       "id": "groen-koncert-2014"
     },
     {
@@ -29237,6 +29835,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "groen",
+      "year": "2015",
       "id": "groen-koncert-2015"
     },
     {
@@ -29249,6 +29849,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "groen",
+      "year": "2016",
       "id": "groen-koncert-2016"
     },
     {
@@ -29257,14 +29859,20 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "groen",
+      "year": "2017",
       "id": "groen-koncert-2017"
     },
     {
       "bipartite": "festival_year",
+      "festival": "groen",
+      "year": "2018",
       "id": "groen-koncert-2018"
     },
     {
       "bipartite": "festival_year",
+      "festival": "northside",
+      "year": "2016",
       "id": "northside-2016"
     },
     {
@@ -29305,50 +29913,74 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "northside",
+      "year": "2013",
       "id": "northside-2013"
     },
     {
       "bipartite": "festival_year",
+      "festival": "northside",
+      "year": "2015",
       "id": "northside-2015"
     },
     {
       "bipartite": "festival_year",
+      "festival": "northside",
+      "year": "2023",
       "id": "northside-2023"
     },
     {
       "bipartite": "festival_year",
+      "festival": "northside",
+      "year": "2010",
       "id": "northside-2010"
     },
     {
       "bipartite": "festival_year",
+      "festival": "northside",
+      "year": "2017",
       "id": "northside-2017"
     },
     {
       "bipartite": "festival_year",
+      "festival": "northside",
+      "year": "2012",
       "id": "northside-2012"
     },
     {
       "bipartite": "festival_year",
+      "festival": "northside",
+      "year": "2019",
       "id": "northside-2019"
     },
     {
       "bipartite": "festival_year",
+      "festival": "northside",
+      "year": "2018",
       "id": "northside-2018"
     },
     {
       "bipartite": "festival_year",
+      "festival": "northside",
+      "year": "2014",
       "id": "northside-2014"
     },
     {
       "bipartite": "festival_year",
+      "festival": "northside",
+      "year": "2011",
       "id": "northside-2011"
     },
     {
       "bipartite": "festival_year",
+      "festival": "northside",
+      "year": "2022",
       "id": "northside-2022"
     },
     {
       "bipartite": "festival_year",
+      "festival": "tinderbox",
+      "year": "2019",
       "id": "tinderbox-2019"
     },
     {
@@ -29473,6 +30105,8 @@
     },
     {
       "bipartite": "festival_year",
+      "festival": "tinderbox",
+      "year": "2015",
       "id": "tinderbox-2015"
     },
     {
