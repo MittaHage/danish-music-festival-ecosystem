@@ -65304,6 +65304,2283 @@
       "dominant_genre": "dansk pop",
       "average_popularity": 52.375,
       "id": "groen-koncert-2025"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "alternative",
+        "dance",
+        "electronic",
+        "pop"
+      ],
+      "popularity": 92,
+      "id": "billie-eilish"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "folk",
+        "hip-hop",
+        "pop",
+        "rock"
+      ],
+      "popularity": 71,
+      "id": "dermot-kennedy"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "eurodance"
+      ],
+      "popularity": 64,
+      "id": "dr.-alban"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "rock"
+      ],
+      "popularity": 65,
+      "id": "greta-van-fleet"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "eurodance"
+      ],
+      "popularity": 67,
+      "id": "haddaway"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "reggaeton",
+        "latin"
+      ],
+      "popularity": 88,
+      "id": "j-balvin"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "hollands"
+      ],
+      "popularity": 59,
+      "id": "kris-kross-amsterdam"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "alternative  pop",
+        "baroque pop",
+        "dream pop",
+        "rock"
+      ],
+      "popularity": 90,
+      "id": "lana-del-rey"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "deep house",
+        "future house"
+      ],
+      "popularity": 69,
+      "id": "loud-luxury"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "thrash metal",
+        "speed metal",
+        "death metal",
+        "groove metal",
+        "metal"
+      ],
+      "popularity": 31,
+      "id": "nervo"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "edm",
+        "electropop",
+        "electropop&#91;2&#93;",
+        "future bass",
+        "pop",
+        "pop&#91;1&#93;"
+      ],
+      "popularity": 82,
+      "id": "the-chainsmokers"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "electro house"
+      ],
+      "popularity": 59,
+      "id": "tujamo"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "nu disco"
+      ],
+      "popularity": 36,
+      "id": "anna-lunoe"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "progressive house"
+      ],
+      "popularity": 37,
+      "id": "deniz-koyu"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "big room house",
+        "dance-pop",
+        "electro house",
+        "electro house&#91;3&#93;",
+        "future bass",
+        "future house",
+        "future house&#91;2&#93;",
+        "progressive house"
+      ],
+      "popularity": 56,
+      "id": "dzeko"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "tropical house"
+      ],
+      "popularity": 77,
+      "id": "lost-frequencies"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "country",
+        "hip-hop",
+        "pop",
+        "psychedelic",
+        "rock"
+      ],
+      "popularity": 83,
+      "id": "miley-cyrus"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "blue-eyed soul",
+        "dance-pop",
+        "pop"
+      ],
+      "popularity": 65,
+      "id": "rick-astley"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "rap"
+      ],
+      "popularity": 84,
+      "id": "asap-rocky"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "dansk pop"
+      ],
+      "popularity": 61,
+      "id": "cristoph"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "melbourne bounce",
+        "electro house"
+      ],
+      "popularity": 66,
+      "id": "deorro"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "future house",
+        "house",
+        "progressive house",
+        "deep house"
+      ],
+      "popularity": 51,
+      "id": "edx"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "house",
+        "progressive house",
+        "progressive house&#91;1&#93;",
+        "tech house",
+        "techno"
+      ],
+      "popularity": 65,
+      "id": "eric-prydz"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "italo disco",
+        "disco",
+        "italo dance"
+      ],
+      "popularity": 56,
+      "id": "giorgio-moroder"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [],
+      "popularity": 26,
+      "id": "mambo-brothers"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "dansktop",
+        "dansk pop"
+      ],
+      "popularity": 56,
+      "id": "neil-young-+-promise-of-the-real"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "melodic techno"
+      ],
+      "popularity": 29,
+      "id": "skiy"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "edm"
+      ],
+      "popularity": 78,
+      "id": "swedish-house-mafia"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "k-pop"
+      ],
+      "popularity": 47,
+      "id": "trouble-is..."
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "hard techno"
+      ],
+      "popularity": 43,
+      "id": "warp-brothers"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "trance",
+        "progressive trance",
+        "progressive house"
+      ],
+      "popularity": 63,
+      "id": "above-&-beyond"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "future house",
+        "house"
+      ],
+      "popularity": 65,
+      "id": "oliver-heldens"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [],
+      "popularity": 65,
+      "id": "axwell-&-sebastian-ingrosso"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "norwegian pop",
+        "russelåter"
+      ],
+      "popularity": 65,
+      "id": "broiler"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "edm"
+      ],
+      "popularity": 43,
+      "id": "cazzette"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "alternative rock",
+        "electronic",
+        "folk",
+        "indie",
+        "reggae"
+      ],
+      "popularity": 72,
+      "id": "milky-chance"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "pop punk",
+        "emo",
+        "punk"
+      ],
+      "popularity": 71,
+      "id": "all-time-low"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "alternative rock",
+        "alternative rock&#91;2&#93;",
+        "math rock",
+        "math rock&#91;1&#93;",
+        "mathcore",
+        "mathcore&#91;3&#93;",
+        "post-hardcore",
+        "post-hardcore&#91;2&#93;",
+        "punk rock",
+        "punk rock&#91;2&#93;"
+      ],
+      "popularity": 39,
+      "id": "marmozets"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "dansk pop"
+      ],
+      "popularity": 17,
+      "id": "spids-noegenhat"
+    },
+    {
+      "bipartite": "festival_year",
+      "festival": "tinderbox",
+      "year": "2025",
+      "id": "tinderbox-2025"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "country",
+        "country&#91;1&#93;",
+        "pop"
+      ],
+      "popularity": 70,
+      "id": "dasha"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "blues rock",
+        "garage rock",
+        "modern blues",
+        "rock"
+      ],
+      "popularity": 70,
+      "id": "the-black-keys"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "melodic techno",
+        "melodic house"
+      ],
+      "popularity": 67,
+      "id": "argy"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "dansk pop",
+        "dansktop"
+      ],
+      "popularity": 47,
+      "id": "august-hoeyen"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "jazz",
+        "rhythm and blues"
+      ],
+      "popularity": 60,
+      "id": "jacob-collier"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "latin alternative",
+        "latin indie"
+      ],
+      "popularity": 40,
+      "id": "reyna-tropical"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "downtempo",
+        "electronica",
+        "trip hop"
+      ],
+      "popularity": 61,
+      "id": "röyksopp"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "melodic techno",
+        "melodic house",
+        "progressive house",
+        "techno"
+      ],
+      "popularity": 67,
+      "id": "artbat"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "modern blues",
+        "blues rock"
+      ],
+      "popularity": 63,
+      "id": "marcus-king"
+    },
+    {
+      "bipartite": "festival_year",
+      "festival": "tinderbox",
+      "year": "2024",
+      "id": "tinderbox-2024"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "big room house",
+        "electro house",
+        "future bass",
+        "future house",
+        "progressive house"
+      ],
+      "popularity": 80,
+      "id": "alan-walker"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "alternative rock",
+        "pop",
+        "pop rock",
+        "pop-punk"
+      ],
+      "popularity": 77,
+      "id": "avril-lavigne"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "hypertechno"
+      ],
+      "popularity": 68,
+      "id": "bennett"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "alternative r&b"
+      ],
+      "popularity": 67,
+      "id": "janelle-monáe"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "pop"
+      ],
+      "popularity": 69,
+      "id": "lauren-spencer-smith"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "blue-eyed soul",
+        "comedy",
+        "disco",
+        "electronic",
+        "experimental",
+        "funk",
+        "house",
+        "rhythm and blues"
+      ],
+      "popularity": 49,
+      "id": "marc-rebillet"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "pop",
+        "r&amp;b"
+      ],
+      "popularity": 80,
+      "id": "camila-cabello"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "big room",
+        "electronica",
+        "edm"
+      ],
+      "popularity": 72,
+      "id": "dimitri-vegas-&-like-mike"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "house",
+        "tech house"
+      ],
+      "popularity": 63,
+      "id": "claptone"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "latin pop",
+        "pop"
+      ],
+      "popularity": 65,
+      "id": "íñigo-quintero"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "soft pop"
+      ],
+      "popularity": 81,
+      "id": "james-arthur"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "melodic techno",
+        "melodic house",
+        "deep house"
+      ],
+      "popularity": 59,
+      "id": "joris-voorn"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "tech house",
+        "house"
+      ],
+      "popularity": 67,
+      "id": "mau-p"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "melodic techno",
+        "melodic house",
+        "progressive house"
+      ],
+      "popularity": 57,
+      "id": "miss-monique"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "dance",
+        "jazz",
+        "pop",
+        "r&amp;b",
+        "soul"
+      ],
+      "popularity": 84,
+      "id": "raye"
+    },
+    {
+      "bipartite": "festival_year",
+      "festival": "tinderbox",
+      "year": "2023",
+      "id": "tinderbox-2023"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "pop"
+      ],
+      "popularity": 58,
+      "id": "mimi-webb"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "indie pop"
+      ],
+      "popularity": 60,
+      "id": "cian-ducrot"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "pop"
+      ],
+      "popularity": 87,
+      "id": "maroon-5"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "norwegian pop"
+      ],
+      "popularity": 65,
+      "id": "astrid-s"
+    },
+    {
+      "bipartite": "festival_year",
+      "festival": "tinderbox",
+      "year": "2022",
+      "id": "tinderbox-2022"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "hardstyle",
+        "frenchcore",
+        "hardcore"
+      ],
+      "popularity": 62,
+      "id": "brennan-heart"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "pop punk"
+      ],
+      "popularity": 49,
+      "id": "kennyhoopla"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "future house",
+        "big room",
+        "edm"
+      ],
+      "popularity": 56,
+      "id": "mike-williams"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [],
+      "popularity": 66,
+      "id": "shouse"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "melbourne bounce",
+        "big room"
+      ],
+      "popularity": 71,
+      "id": "timmy-trumpet"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "alternative pop"
+      ],
+      "popularity": 44,
+      "id": "baby-queen"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "alternative r&b"
+      ],
+      "popularity": 49,
+      "id": "iamddb"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [],
+      "popularity": 59,
+      "id": "jubël"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "disco house",
+        "nu disco",
+        "funky house",
+        "house"
+      ],
+      "popularity": 71,
+      "id": "purple-disco-machine"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "tech house"
+      ],
+      "popularity": 61,
+      "id": "acraze"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "future house",
+        "bass house",
+        "electro house"
+      ],
+      "popularity": 45,
+      "id": "chocolate-puma"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "brazilian bass",
+        "electronic",
+        "electro"
+      ],
+      "popularity": 72,
+      "id": "vintage-culture"
+    },
+    {
+      "bipartite": "festival_year",
+      "festival": "tinderbox",
+      "year": "2018",
+      "id": "tinderbox-2018"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "new wave",
+        "synthpop",
+        "darkwave"
+      ],
+      "popularity": 76,
+      "id": "depeche-mode"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "deep house",
+        "house",
+        "tech house",
+        "tropical house"
+      ],
+      "popularity": 68,
+      "id": "kungs"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "electro house",
+        "edm"
+      ],
+      "popularity": 72,
+      "id": "steve-aoki"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "future house"
+      ],
+      "popularity": 36,
+      "id": "toby-green"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "psytrance",
+        "trance"
+      ],
+      "popularity": 62,
+      "id": "vini-vici"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "alternative rock",
+        "hip-hop",
+        "pop rock",
+        "pop-punk"
+      ],
+      "popularity": 75,
+      "id": "yungblud"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "house",
+        "house&#91;4&#93;",
+        "r&amp;b",
+        "r&amp;b&#91;1&#93;",
+        "uk garage",
+        "uk garage&#91;2&#93;&#91;3&#93;"
+      ],
+      "popularity": 65,
+      "id": "craig-david"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "hip-hop",
+        "pop-rap",
+        "pop-rap&#91;1&#93;"
+      ],
+      "popularity": 76,
+      "id": "french-montana"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "future house"
+      ],
+      "popularity": 57,
+      "id": "lucas-&-steve"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "dubstep",
+        "edm",
+        "drumstep",
+        "electro house",
+        "glitch"
+      ],
+      "popularity": 50,
+      "id": "pegboard-nerds"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "riot grrrl",
+        "alternative rock"
+      ],
+      "popularity": 52,
+      "id": "the-breeders"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "melbourne bounce",
+        "big room"
+      ],
+      "popularity": 59,
+      "id": "will-sparks"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [],
+      "popularity": 52,
+      "id": "frank-walker"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [],
+      "popularity": 49,
+      "id": "jamie-lawson"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "tropical house"
+      ],
+      "popularity": 60,
+      "id": "matoma"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "future bass",
+        "edm"
+      ],
+      "popularity": 54,
+      "id": "san-holo"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "edm",
+        "trance",
+        "big room"
+      ],
+      "popularity": 82,
+      "id": "tiësto"
+    },
+    {
+      "bipartite": "festival_year",
+      "festival": "tinderbox",
+      "year": "2017",
+      "id": "tinderbox-2017"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "progressive house"
+      ],
+      "popularity": 49,
+      "id": "dirty-south"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "indie pop"
+      ],
+      "popularity": 45,
+      "id": "fickle-friends"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "edm"
+      ],
+      "popularity": 70,
+      "id": "galantis"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "edm"
+      ],
+      "popularity": 66,
+      "id": "kaskade"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [],
+      "popularity": 23,
+      "id": "louis-berry"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "old school hip hop",
+        "east coast hip hop",
+        "hip hop"
+      ],
+      "popularity": 65,
+      "id": "run‐d.m.c."
+    },
+    {
+      "bipartite": "artist",
+      "genres": [],
+      "popularity": 58,
+      "id": "filatov-&-karas"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "tropical house"
+      ],
+      "popularity": 74,
+      "id": "jonas-blue"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "french house"
+      ],
+      "popularity": 65,
+      "id": "martin-solveig"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [],
+      "popularity": 60,
+      "id": "nathaniel-rateliff-&-the-night-sweats"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "deep house",
+        "melodic house",
+        "progressive house",
+        "house"
+      ],
+      "popularity": 58,
+      "id": "nora-en-pure"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "tropical house"
+      ],
+      "popularity": 72,
+      "id": "felix-jaehn"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "future house"
+      ],
+      "popularity": 52,
+      "id": "throttle"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "big room",
+        "edm"
+      ],
+      "popularity": 61,
+      "id": "ummet-ozcan"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "big room",
+        "edm",
+        "techno"
+      ],
+      "popularity": 73,
+      "id": "w&w"
+    },
+    {
+      "bipartite": "festival_year",
+      "festival": "tinderbox",
+      "year": "2016",
+      "id": "tinderbox-2016"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "big room",
+        "edm"
+      ],
+      "popularity": 60,
+      "id": "bassjackers"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "progressive house"
+      ],
+      "popularity": 61,
+      "id": "steve-angello"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "dubstep",
+        "edm"
+      ],
+      "popularity": 60,
+      "id": "zeds-dead"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "future house",
+        "edm"
+      ],
+      "popularity": 66,
+      "id": "don-diablo"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "dance-pop",
+        "electropop",
+        "indie pop",
+        "synth-pop"
+      ],
+      "popularity": 71,
+      "id": "years-&-years"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "edm",
+        "edm trap"
+      ],
+      "popularity": 61,
+      "id": "yellow-claw"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "house",
+        "progressive house",
+        "tech house"
+      ],
+      "popularity": 58,
+      "id": "fedde-le-grand"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "dansk pop",
+        "dansktop"
+      ],
+      "popularity": 63,
+      "id": "seeb"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "pop",
+        "r&amp;b",
+        "r&amp;b&#91;2&#93;",
+        "soul"
+      ],
+      "popularity": 52,
+      "id": "samm-henshaw"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "industrial rock"
+      ],
+      "popularity": 56,
+      "id": "puscifer"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "post-rock",
+        "dream pop"
+      ],
+      "popularity": 59,
+      "id": "sigur-rós"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "indie rock"
+      ],
+      "popularity": 40,
+      "id": "wolf-parade"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "indie"
+      ],
+      "popularity": 56,
+      "id": "blossoms"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "idm"
+      ],
+      "popularity": 59,
+      "id": "caribou"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "alternative rock",
+        "indie pop"
+      ],
+      "popularity": 31,
+      "id": "coasts"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "singer-songwriter"
+      ],
+      "popularity": 58,
+      "id": "damien-rice"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "alternative rock",
+        "emo pop",
+        "indie rock",
+        "power pop"
+      ],
+      "popularity": 42,
+      "id": "twin-atlantic"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "alternative rock",
+        "alternative rock&#91;1&#93;",
+        "post-britpop",
+        "post-britpop&#91;4&#93;&#91;5&#93;",
+        "rock",
+        "rock&#91;2&#93;&#91;3&#93;",
+        "soft rock",
+        "soft rock&#91;5&#93;"
+      ],
+      "popularity": 76,
+      "id": "keane"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [],
+      "popularity": 55,
+      "id": "tegan-and-sara"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "electroclash"
+      ],
+      "popularity": 48,
+      "id": "the-knife"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "folk-pop",
+        "indie pop"
+      ],
+      "popularity": 79,
+      "id": "tom-odell"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "dansk pop",
+        "dansk rap"
+      ],
+      "popularity": 52,
+      "id": "alt‐j"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [],
+      "popularity": 65,
+      "id": "nick-cave-&-the-bad-seeds"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "minimal techno",
+        "electronica"
+      ],
+      "popularity": 47,
+      "id": "trentemoeller"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "garage rock"
+      ],
+      "popularity": 30,
+      "id": "deap-vally"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "art pop",
+        "art rock",
+        "electronica",
+        "experimental pop",
+        "indie rock",
+        "progressive rock"
+      ],
+      "popularity": 52,
+      "id": "everything-everything"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "baroque pop",
+        "baroque pop&#91;4&#93;",
+        "indie pop",
+        "indie pop&#91;1&#93;",
+        "indie rock",
+        "indie rock&#91;2&#93;",
+        "pop rock",
+        "pop rock&#91;3&#93;"
+      ],
+      "popularity": 68,
+      "id": "fun"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [],
+      "popularity": 16,
+      "id": "carl-barât-and-the-jackals"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "art pop",
+        "alternative r&b"
+      ],
+      "popularity": 70,
+      "id": "fka-twigs"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "nu metal",
+        "funk rock",
+        "alternative metal",
+        "alternative rock"
+      ],
+      "popularity": 71,
+      "id": "incubus"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "alternative r&amp;b",
+        "electronica",
+        "indie pop",
+        "trip hop"
+      ],
+      "popularity": 44,
+      "id": "jack-garratt"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "indie folk"
+      ],
+      "popularity": 65,
+      "id": "josé-gonzález"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "east coast hip hop",
+        "old school hip hop",
+        "hip hop",
+        "gangster rap",
+        "hardcore hip hop"
+      ],
+      "popularity": 67,
+      "id": "wu‐tang-clan"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "art pop",
+        "baroque pop"
+      ],
+      "popularity": 47,
+      "id": "anohni-and-the-johnsons"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "trip hop",
+        "electronica"
+      ],
+      "popularity": 43,
+      "id": "gusgus"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "electro swing",
+        "swing music",
+        "nu jazz"
+      ],
+      "popularity": 62,
+      "id": "parov-stelar"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "indie"
+      ],
+      "popularity": 67,
+      "id": "wolf-alice"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "indie folk",
+        "folk pop"
+      ],
+      "popularity": 65,
+      "id": "ben-howard"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "alternative rock",
+        "indie rock"
+      ],
+      "popularity": 36,
+      "id": "matthew-e.-white"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "retro soul"
+      ],
+      "popularity": 57,
+      "id": "st.-paul-&-the-broken-bones"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "afro house",
+        "techengue",
+        "latin house",
+        "afro tech",
+        "tribal house",
+        "organic house"
+      ],
+      "popularity": 47,
+      "id": "amémé"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "electro swing",
+        "glitch"
+      ],
+      "popularity": 11,
+      "id": "captain-flatcap"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "indie dance",
+        "tech house",
+        "melodic techno"
+      ],
+      "popularity": 34,
+      "id": "christian-nielsen"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [],
+      "popularity": 72,
+      "id": "meduza"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "tech house"
+      ],
+      "popularity": 38,
+      "id": "sam-divine"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "organic house"
+      ],
+      "popularity": 26,
+      "id": "walther"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "tech house",
+        "melodic techno"
+      ],
+      "popularity": 32,
+      "id": "disfreq"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "melodic house"
+      ],
+      "popularity": 35,
+      "id": "nicky-elisabeth"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "dansktop",
+        "dansk pop"
+      ],
+      "popularity": 41,
+      "id": "poul-bones"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "experimental"
+      ],
+      "popularity": 3,
+      "id": "the-vegetable-orchestra"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "dansk pop"
+      ],
+      "popularity": 44,
+      "id": "buda"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "house",
+        "tech house"
+      ],
+      "popularity": 69,
+      "id": "dom-dolla"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [],
+      "popularity": 19,
+      "id": "henri-mattise"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [],
+      "popularity": 17,
+      "id": "la-fleur"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "bass house",
+        "g-house",
+        "tech house"
+      ],
+      "popularity": 52,
+      "id": "marten-hoerger"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [],
+      "popularity": 54,
+      "id": "nxworries"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "chamber pop",
+        "indie pop"
+      ],
+      "popularity": 38,
+      "id": "ed-harcourt"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "alternative r&amp;b",
+        "avant-soul",
+        "hip-hop",
+        "psychedelic soul"
+      ],
+      "popularity": 86,
+      "id": "frank-ocean"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "grunge"
+      ],
+      "popularity": 39,
+      "id": "the-afghan-whigs"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "classic country",
+        "traditional country"
+      ],
+      "popularity": 18,
+      "id": "the-carter-kids"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [],
+      "popularity": 1,
+      "id": "helgi-hrafn-jónsson"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "britpop",
+        "madchester"
+      ],
+      "popularity": 56,
+      "id": "richard-ashcroft"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "baroque pop"
+      ],
+      "popularity": 55,
+      "id": "miles-kane"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [],
+      "popularity": 54,
+      "id": "noah-and-the-whale"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "indie",
+        "indie rock"
+      ],
+      "popularity": 69,
+      "id": "the-kooks"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "indie rock",
+        "indie"
+      ],
+      "popularity": 54,
+      "id": "bombay-bicycle-club"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "madchester",
+        "britpop"
+      ],
+      "popularity": 65,
+      "id": "the-stone-roses"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "art pop",
+        "dream pop"
+      ],
+      "popularity": 45,
+      "id": "bat-for-lashes"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "britpop",
+        "madchester"
+      ],
+      "popularity": 60,
+      "id": "noel-gallagher’s-high-flying-birds"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "alternative rock",
+        "alternative rock&#91;1&#93;",
+        "indie rock",
+        "indie rock&#91;4&#93;",
+        "post-britpop",
+        "post-britpop&#91;3&#93;",
+        "power pop",
+        "power pop&#91;2&#93;"
+      ],
+      "popularity": 70,
+      "id": "snow-patrol"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "indie pop",
+        "r&amp;b"
+      ],
+      "popularity": 54,
+      "id": "cautious-clay"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "emo",
+        "emo&#91;1&#93;&#91;3&#93;",
+        "folk",
+        "folk&#91;3&#93;",
+        "freak folk",
+        "freak folk (early)",
+        "indie pop",
+        "indie pop&#91;2&#93;",
+        "indie rock",
+        "indie rock&#91;1&#93;",
+        "power pop",
+        "power pop&#91;3&#93;"
+      ],
+      "popularity": 36,
+      "id": "hop-along"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "neo-psychedelic",
+        "psychedelic rock"
+      ],
+      "popularity": 46,
+      "id": "pond"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "soul"
+      ],
+      "popularity": 68,
+      "id": "michael-kiwanuka"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "trap"
+      ],
+      "popularity": 76,
+      "id": "migos"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "dansk rap",
+        "dansktop",
+        "dansk pop"
+      ],
+      "popularity": 52,
+      "id": "kurt-vile-&-the-violators"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "ambient folk"
+      ],
+      "popularity": 72,
+      "id": "novo-amor"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "art pop",
+        "trip hop"
+      ],
+      "popularity": 75,
+      "id": "björk"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "retro soul",
+        "jazz funk"
+      ],
+      "popularity": 24,
+      "id": "d/troit"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [],
+      "popularity": 29,
+      "id": "findlay"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "alternative hip hop",
+        "hardcore punk",
+        "hip hop",
+        "rap rock"
+      ],
+      "popularity": 44,
+      "id": "mike-d"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "alternative r&b",
+        "neo soul"
+      ],
+      "popularity": 59,
+      "id": "the-internet"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [],
+      "popularity": 69,
+      "id": "thundercat"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "pop rock"
+      ],
+      "popularity": 63,
+      "id": "tom-grennan"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "alternative metal"
+      ],
+      "popularity": 65,
+      "id": "a-perfect-circle"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "dream pop"
+      ],
+      "popularity": 86,
+      "id": "cigarettes-after-sex"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [],
+      "popularity": 55,
+      "id": "gang-of-youths"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "britpop",
+        "madchester"
+      ],
+      "popularity": 58,
+      "id": "liam-gallagher"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "proto-punk",
+        "garage rock",
+        "punk"
+      ],
+      "popularity": 38,
+      "id": "mc5"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "soft pop"
+      ],
+      "popularity": 90,
+      "id": "n*e*r*d"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "art pop"
+      ],
+      "popularity": 46,
+      "id": "rostam"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "alternative rock",
+        "indie rock"
+      ],
+      "popularity": 12,
+      "id": "francobollo"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [],
+      "popularity": 48,
+      "id": "mashrou’-leila"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "bedroom pop"
+      ],
+      "popularity": 76,
+      "id": "rex-orange-county"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "alternative r&amp;b",
+        "downtempo",
+        "soul"
+      ],
+      "popularity": 63,
+      "id": "rhye"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "norwegian pop",
+        "art pop"
+      ],
+      "popularity": 55,
+      "id": "susanne-sundfoer"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [],
+      "popularity": 88,
+      "id": "tyler,-the-creator"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [],
+      "popularity": 56,
+      "id": "james-vincent-mcmorrow"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "electronic",
+        "future garage",
+        "indie rock",
+        "post-dubstep"
+      ],
+      "popularity": 50,
+      "id": "mount-kimbie"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "indie folk"
+      ],
+      "popularity": 64,
+      "id": "ry-x"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "hip hop"
+      ],
+      "popularity": 52,
+      "id": "jurassic-5"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "swedish pop"
+      ],
+      "popularity": 36,
+      "id": "nina-persson"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "dansk pop",
+        "dansktop"
+      ],
+      "popularity": 56,
+      "id": "röyksopp-&-robyn"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "neo-psychedelic",
+        "psychedelic rock"
+      ],
+      "popularity": 41,
+      "id": "temples"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "art pop",
+        "folk",
+        "pop"
+      ],
+      "popularity": 57,
+      "id": "ane-brun"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "electronic",
+        "soul"
+      ],
+      "popularity": 35,
+      "id": "lulu-james"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "drum and bass",
+        "electronic",
+        "house",
+        "jungle",
+        "soul"
+      ],
+      "popularity": 69,
+      "id": "rudimental"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "downtempo",
+        "electronica",
+        "neo soul",
+        "post-dubstep",
+        "r&amp;b",
+        "trip hop"
+      ],
+      "popularity": 46,
+      "id": "jamie-woon"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [],
+      "popularity": 57,
+      "id": "the-naked-and-famous"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "house",
+        "tech house"
+      ],
+      "popularity": 71,
+      "id": "james-hype"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "dansk pop",
+        "dansktop"
+      ],
+      "popularity": 60,
+      "id": "asger-engholm-techau"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "indie soul"
+      ],
+      "popularity": 66,
+      "id": "tom-misch"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "soft pop"
+      ],
+      "popularity": 81,
+      "id": "lewis-capaldi"
+    },
+    {
+      "bipartite": "festival_year",
+      "festival": "northside",
+      "year": "2025",
+      "id": "northside-2025"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "jazz house"
+      ],
+      "popularity": 63,
+      "id": "barry-can’t-swim"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "japanese indie",
+        "anime"
+      ],
+      "popularity": 49,
+      "id": "the-pill"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "french indie pop",
+        "french house"
+      ],
+      "popularity": 62,
+      "id": "polo-&-pan"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "post-disco"
+      ],
+      "popularity": 39,
+      "id": "donny-benét"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "french indie pop",
+        "french house",
+        "french pop"
+      ],
+      "popularity": 63,
+      "id": "l’impératrice"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "alternative folk",
+        "alternative rock",
+        "dark pop",
+        "gothic/noir"
+      ],
+      "popularity": 56,
+      "id": "luvcat"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "post-punk"
+      ],
+      "popularity": 39,
+      "id": "the-murder-capital"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "electronic"
+      ],
+      "popularity": 52,
+      "id": "fcukers"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "psychedelic rock",
+        "neo-psychedelic",
+        "acid rock",
+        "stoner rock"
+      ],
+      "popularity": 53,
+      "id": "psychedelic-porn-crumpets"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "electroclash"
+      ],
+      "popularity": 53,
+      "id": "the-dare"
+    },
+    {
+      "bipartite": "festival_year",
+      "festival": "northside",
+      "year": "2024",
+      "id": "northside-2024"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [],
+      "popularity": 29,
+      "id": "lucky-lo"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "afrobeats",
+        "afrobeat"
+      ],
+      "popularity": 62,
+      "id": "libianca"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "dance-pop",
+        "dance-pop&#91;4&#93;",
+        "electropop",
+        "electropop&#91;3&#93;",
+        "pop&#91;1&#93;",
+        "synth-pop",
+        "synth-pop&#91;2&#93;"
+      ],
+      "popularity": 75,
+      "id": "troye-sivan"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "indie",
+        "jazz",
+        "pop"
+      ],
+      "popularity": 34,
+      "id": "angélica-garcia"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "art pop"
+      ],
+      "popularity": 45,
+      "id": "benjamin-clementine"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "indie soul"
+      ],
+      "popularity": 72,
+      "id": "parcels"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "post-punk"
+      ],
+      "popularity": 31,
+      "id": "the-clockworks"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "indie folk"
+      ],
+      "popularity": 60,
+      "id": "blanco-white"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "afrobeats",
+        "drill",
+        "hip-hop"
+      ],
+      "popularity": 79,
+      "id": "morad"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [],
+      "popularity": 48,
+      "id": "daði-freyr"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "riot grrrl",
+        "punk"
+      ],
+      "popularity": 62,
+      "id": "amyl-and-the-sniffers"
+    },
+    {
+      "bipartite": "artist",
+      "genres": [
+        "art pop"
+      ],
+      "popularity": 63,
+      "id": "st.-vincent"
     }
   ],
   "links": [
@@ -65841,10 +68118,6 @@
     },
     {
       "source": "gnags",
-      "target": "tinderbox-2019"
-    },
-    {
-      "source": "gnags",
       "target": "jelling-musikfestival-2022"
     },
     {
@@ -65998,6 +68271,14 @@
     {
       "source": "gnags",
       "target": "groen-koncert-1996"
+    },
+    {
+      "source": "gnags",
+      "target": "tinderbox-2019"
+    },
+    {
+      "source": "gnags",
+      "target": "northside-2019"
     },
     {
       "source": "roskilde-festival-1973",
@@ -69188,6 +71469,10 @@
       "target": "roskilde-festival-2016"
     },
     {
+      "source": "new-order",
+      "target": "northside-2019"
+    },
+    {
       "source": "lou-reed",
       "target": "roskilde-festival-2000"
     },
@@ -69960,6 +72245,30 @@
       "target": "groen-koncert-2019"
     },
     {
+      "source": "dizzy-mizz-lizzy",
+      "target": "tinderbox-2025"
+    },
+    {
+      "source": "dizzy-mizz-lizzy",
+      "target": "tinderbox-2018"
+    },
+    {
+      "source": "dizzy-mizz-lizzy",
+      "target": "tinderbox-2016"
+    },
+    {
+      "source": "dizzy-mizz-lizzy",
+      "target": "northside-2015"
+    },
+    {
+      "source": "dizzy-mizz-lizzy",
+      "target": "northside-2018"
+    },
+    {
+      "source": "dizzy-mizz-lizzy",
+      "target": "northside-2025"
+    },
+    {
       "source": "kashmir",
       "target": "roskilde-festival-1994"
     },
@@ -70064,6 +72373,22 @@
       "target": "groen-koncert-2014"
     },
     {
+      "source": "kashmir",
+      "target": "tinderbox-2022"
+    },
+    {
+      "source": "kashmir",
+      "target": "northside-2013"
+    },
+    {
+      "source": "kashmir",
+      "target": "northside-2012"
+    },
+    {
+      "source": "kashmir",
+      "target": "northside-2022"
+    },
+    {
       "source": "moonjam",
       "target": "smukfest-1989"
     },
@@ -70158,6 +72483,10 @@
     {
       "source": "the-savage-rose",
       "target": "copenhagen-jazz-festival-2008"
+    },
+    {
+      "source": "the-savage-rose",
+      "target": "tinderbox-2019"
     },
     {
       "source": "leningrad-cowboys",
@@ -70824,6 +73153,10 @@
       "target": "roskilde-festival-2009"
     },
     {
+      "source": "madness",
+      "target": "tinderbox-2018"
+    },
+    {
       "source": "the-cult",
       "target": "roskilde-festival-1987"
     },
@@ -71204,6 +73537,14 @@
       "target": "smukfest-2025"
     },
     {
+      "source": "iggy-pop",
+      "target": "tinderbox-2018"
+    },
+    {
+      "source": "iggy-pop",
+      "target": "northside-2016"
+    },
+    {
       "source": "europe",
       "target": "rock-under-broen-2016"
     },
@@ -71246,6 +73587,10 @@
     {
       "source": "the-flaming-lips",
       "target": "roskilde-festival-2007"
+    },
+    {
+      "source": "the-flaming-lips",
+      "target": "northside-2013"
     },
     {
       "source": "the-replacements",
@@ -71436,6 +73781,10 @@
       "target": "rock-under-broen-2011"
     },
     {
+      "source": "bryan-adams",
+      "target": "tinderbox-2024"
+    },
+    {
       "source": "sting",
       "target": "smukfest-2016"
     },
@@ -71550,6 +73899,14 @@
     {
       "source": "sort-sol",
       "target": "groen-koncert-1996"
+    },
+    {
+      "source": "sort-sol",
+      "target": "tinderbox-2017"
+    },
+    {
+      "source": "sort-sol",
+      "target": "northside-2017"
     },
     {
       "source": "miss-b-haven",
@@ -71868,6 +74225,10 @@
       "target": "roskilde-festival-2004"
     },
     {
+      "source": "pixies",
+      "target": "northside-2014"
+    },
+    {
       "source": "nick-cave-the-bad-seeds",
       "target": "roskilde-festival-1990"
     },
@@ -72048,6 +74409,22 @@
       "target": "groen-koncert-2010"
     },
     {
+      "source": "thomas-helmig",
+      "target": "tinderbox-2022"
+    },
+    {
+      "source": "thomas-helmig",
+      "target": "tinderbox-2017"
+    },
+    {
+      "source": "thomas-helmig",
+      "target": "northside-2017"
+    },
+    {
+      "source": "thomas-helmig",
+      "target": "northside-2022"
+    },
+    {
       "source": "litfiba",
       "target": "roskilde-festival-1993"
     },
@@ -72130,6 +74507,10 @@
     {
       "source": "the-sandmen",
       "target": "groen-koncert-1993"
+    },
+    {
+      "source": "the-sandmen",
+      "target": "tinderbox-2016"
     },
     {
       "source": "marilyn-mazur",
@@ -72242,6 +74623,14 @@
     {
       "source": "duran-duran",
       "target": "jelling-musikfestival-2022"
+    },
+    {
+      "source": "duran-duran",
+      "target": "tinderbox-2019"
+    },
+    {
+      "source": "duran-duran",
+      "target": "northside-2016"
     },
     {
       "source": "michael-learns-to-rock",
@@ -72832,6 +75221,10 @@
       "target": "roskilde-festival-2016"
     },
     {
+      "source": "red-hot-chili-peppers",
+      "target": "tinderbox-2023"
+    },
+    {
       "source": "bob-dylan",
       "target": "roskilde-festival-1998"
     },
@@ -72864,6 +75257,10 @@
       "target": "rock-under-broen-2012"
     },
     {
+      "source": "lenny-kravitz",
+      "target": "tinderbox-2024"
+    },
+    {
       "source": "salif-keita",
       "target": "roskilde-festival-2003"
     },
@@ -72882,6 +75279,10 @@
     {
       "source": "faith-no-more",
       "target": "roskilde-festival-2009"
+    },
+    {
+      "source": "faith-no-more",
+      "target": "tinderbox-2015"
     },
     {
       "source": "midnight-oil",
@@ -72997,10 +75398,6 @@
     },
     {
       "source": "d-a-d",
-      "target": "tinderbox-2015"
-    },
-    {
-      "source": "d-a-d",
       "target": "copenhell-2020"
     },
     {
@@ -73044,8 +75441,16 @@
       "target": "groen-koncert-2018"
     },
     {
+      "source": "d-a-d",
+      "target": "tinderbox-2015"
+    },
+    {
       "source": "the-orb",
       "target": "roskilde-festival-1997"
+    },
+    {
+      "source": "ride",
+      "target": "northside-2017"
     },
     {
       "source": "the-jeff-healey-band",
@@ -73688,6 +76093,10 @@
       "target": "copenhell-2015"
     },
     {
+      "source": "primus",
+      "target": "northside-2017"
+    },
+    {
       "source": "gianna-nannini",
       "target": "smukfest-1995"
     },
@@ -73810,6 +76219,22 @@
     {
       "source": "love-shop",
       "target": "groen-koncert-2016"
+    },
+    {
+      "source": "love-shop",
+      "target": "tinderbox-2015"
+    },
+    {
+      "source": "love-shop",
+      "target": "tinderbox-2025"
+    },
+    {
+      "source": "love-shop",
+      "target": "northside-2013"
+    },
+    {
+      "source": "love-shop",
+      "target": "northside-2024"
     },
     {
       "source": "peter-belli",
@@ -75700,6 +78125,10 @@
       "target": "roskilde-festival-2008"
     },
     {
+      "source": "radiohead",
+      "target": "northside-2017"
+    },
+    {
       "source": "rage-against-the-machines",
       "target": "roskilde-festival-1996"
     },
@@ -75734,6 +78163,10 @@
     {
       "source": "underworld",
       "target": "roskilde-festival-2019"
+    },
+    {
+      "source": "underworld",
+      "target": "northside-2015"
     },
     {
       "source": "paul-weller",
@@ -76496,12 +78929,20 @@
       "target": "roskilde-festival-1999"
     },
     {
+      "source": "weezer",
+      "target": "northside-2025"
+    },
+    {
       "source": "the-cardigans",
       "target": "smukfest-1999"
     },
     {
       "source": "the-cardigans",
       "target": "roskilde-festival-2003"
+    },
+    {
+      "source": "the-cardigans",
+      "target": "tinderbox-2015"
     },
     {
       "source": "the-prodigy",
@@ -76524,8 +78965,20 @@
       "target": "copenhell-2025"
     },
     {
+      "source": "the-prodigy",
+      "target": "tinderbox-2015"
+    },
+    {
+      "source": "the-prodigy",
+      "target": "northside-2017"
+    },
+    {
       "source": "sheryl-crow",
       "target": "nibe-festival-2008"
+    },
+    {
+      "source": "sheryl-crow",
+      "target": "tinderbox-2019"
     },
     {
       "source": "live",
@@ -76634,6 +79087,14 @@
     {
       "source": "suede",
       "target": "groen-koncert-2003"
+    },
+    {
+      "source": "suede",
+      "target": "tinderbox-2016"
+    },
+    {
+      "source": "suede",
+      "target": "northside-2011"
     },
     {
       "source": "napalm-death",
@@ -77372,6 +79833,10 @@
       "target": "copenhell-2018"
     },
     {
+      "source": "deftones",
+      "target": "northside-2016"
+    },
+    {
       "source": "david-bowie",
       "target": "roskilde-festival-2004"
     },
@@ -77400,8 +79865,16 @@
       "target": "roskilde-festival-2018"
     },
     {
+      "source": "massive-attack",
+      "target": "northside-2024"
+    },
+    {
       "source": "alanis-morissette",
       "target": "rock-under-broen-2008"
+    },
+    {
+      "source": "alanis-morissette",
+      "target": "tinderbox-2018"
     },
     {
       "source": "bush",
@@ -77418,6 +79891,10 @@
     {
       "source": "placebo",
       "target": "smukfest-2010"
+    },
+    {
+      "source": "placebo",
+      "target": "northside-2015"
     },
     {
       "source": "slayer",
@@ -77442,6 +79919,10 @@
     {
       "source": "pulp",
       "target": "roskilde-festival-1998"
+    },
+    {
+      "source": "pulp",
+      "target": "northside-2024"
     },
     {
       "source": "khaled",
@@ -77474,6 +79955,10 @@
     {
       "source": "skunk-anansie",
       "target": "copenhell-2025"
+    },
+    {
+      "source": "skunk-anansie",
+      "target": "tinderbox-2019"
     },
     {
       "source": "ministry",
@@ -77577,11 +80062,11 @@
     },
     {
       "source": "kent",
-      "target": "tinderbox-2015"
+      "target": "nibe-festival-2008"
     },
     {
       "source": "kent",
-      "target": "nibe-festival-2008"
+      "target": "tinderbox-2015"
     },
     {
       "source": "den-gale-pose",
@@ -77598,6 +80083,10 @@
     {
       "source": "den-gale-pose",
       "target": "groen-koncert-2001"
+    },
+    {
+      "source": "den-gale-pose",
+      "target": "tinderbox-2019"
     },
     {
       "source": "ash",
@@ -78148,6 +80637,10 @@
       "target": "smukfest-2014"
     },
     {
+      "source": "pet-shop-boys",
+      "target": "tinderbox-2017"
+    },
+    {
       "source": "wu-tang-clan",
       "target": "roskilde-festival-2004"
     },
@@ -78174,6 +80667,14 @@
     {
       "source": "beck",
       "target": "smukfest-2015"
+    },
+    {
+      "source": "beck",
+      "target": "northside-2016"
+    },
+    {
+      "source": "beck",
+      "target": "northside-2018"
     },
     {
       "source": "erasure",
@@ -78518,6 +81019,10 @@
     {
       "source": "aqua",
       "target": "groen-koncert-2023"
+    },
+    {
+      "source": "aqua",
+      "target": "tinderbox-2022"
     },
     {
       "source": "danser-med-drenge",
@@ -79232,6 +81737,10 @@
       "target": "skive-festival-2010"
     },
     {
+      "source": "rammstein",
+      "target": "tinderbox-2016"
+    },
+    {
       "source": "black-sabbath",
       "target": "roskilde-festival-2005"
     },
@@ -79252,8 +81761,16 @@
       "target": "smukfest-2009"
     },
     {
+      "source": "kylie-minogue",
+      "target": "tinderbox-2025"
+    },
+    {
       "source": "portishead",
       "target": "roskilde-festival-2011"
+    },
+    {
+      "source": "portishead",
+      "target": "northside-2013"
     },
     {
       "source": "a-tribe-called-quest",
@@ -79262,6 +81779,10 @@
     {
       "source": "garbage",
       "target": "roskilde-festival-2002"
+    },
+    {
+      "source": "garbage",
+      "target": "northside-2012"
     },
     {
       "source": "eagle-eye-cherry",
@@ -79436,6 +81957,18 @@
       "target": "groen-koncert-2003"
     },
     {
+      "source": "mew",
+      "target": "northside-2010"
+    },
+    {
+      "source": "mew",
+      "target": "northside-2014"
+    },
+    {
+      "source": "mew",
+      "target": "northside-2022"
+    },
+    {
       "source": "laurent-garnier",
       "target": "roskilde-festival-2000"
     },
@@ -79450,6 +81983,10 @@
     {
       "source": "richie-hawtin",
       "target": "smukfest-2000"
+    },
+    {
+      "source": "richie-hawtin",
+      "target": "northside-2018"
     },
     {
       "source": "dj-aron",
@@ -79494,6 +82031,22 @@
     {
       "source": "malk-de-koijn",
       "target": "groen-koncert-2012"
+    },
+    {
+      "source": "malk-de-koijn",
+      "target": "tinderbox-2016"
+    },
+    {
+      "source": "malk-de-koijn",
+      "target": "northside-2016"
+    },
+    {
+      "source": "malk-de-koijn",
+      "target": "northside-2012"
+    },
+    {
+      "source": "malk-de-koijn",
+      "target": "northside-2024"
     },
     {
       "source": "illdisposed",
@@ -79702,6 +82255,10 @@
     {
       "source": "green-day",
       "target": "skive-festival-2010"
+    },
+    {
+      "source": "green-day",
+      "target": "tinderbox-2025"
     },
     {
       "source": "thin-lizzy",
@@ -80308,6 +82865,10 @@
       "target": "roskilde-festival-2001"
     },
     {
+      "source": "robbie-williams",
+      "target": "tinderbox-2015"
+    },
+    {
       "source": "molotov",
       "target": "roskilde-festival-2015"
     },
@@ -80406,6 +82967,10 @@
     {
       "source": "wilco",
       "target": "roskilde-festival-2007"
+    },
+    {
+      "source": "wilco",
+      "target": "northside-2016"
     },
     {
       "source": "carlinhos-brown",
@@ -81581,6 +84146,10 @@
     },
     {
       "source": "muse",
+      "target": "tinderbox-2022"
+    },
+    {
+      "source": "muse",
       "target": "northside-2016"
     },
     {
@@ -81728,6 +84297,10 @@
       "target": "roskilde-festival-2013"
     },
     {
+      "source": "calexico",
+      "target": "northside-2015"
+    },
+    {
       "source": "nephew",
       "target": "roskilde-festival-2004"
     },
@@ -81842,6 +84415,14 @@
     {
       "source": "nephew",
       "target": "groen-koncert-2012"
+    },
+    {
+      "source": "nephew",
+      "target": "northside-2013"
+    },
+    {
+      "source": "nephew",
+      "target": "northside-2010"
     },
     {
       "source": "kid-koala-bullfrog",
@@ -82178,6 +84759,10 @@
     {
       "source": "duoen-to",
       "target": "smukfest-2006"
+    },
+    {
+      "source": "dj-cemetery",
+      "target": "northside-2023"
     },
     {
       "source": "nanna",
@@ -82752,8 +85337,20 @@
       "target": "roskilde-festival-2023"
     },
     {
+      "source": "queens-of-the-stone-age",
+      "target": "northside-2018"
+    },
+    {
+      "source": "queens-of-the-stone-age",
+      "target": "northside-2014"
+    },
+    {
       "source": "phoenix",
       "target": "roskilde-festival-2006"
+    },
+    {
+      "source": "phoenix",
+      "target": "northside-2013"
     },
     {
       "source": "modest-mouse",
@@ -82762,6 +85359,10 @@
     {
       "source": "modest-mouse",
       "target": "roskilde-festival-2022"
+    },
+    {
+      "source": "modest-mouse",
+      "target": "tinderbox-2015"
     },
     {
       "source": "safri-duo",
@@ -82798,6 +85399,10 @@
     {
       "source": "the-hives",
       "target": "copenhell-2024"
+    },
+    {
+      "source": "the-hives",
+      "target": "northside-2012"
     },
     {
       "source": "h-kan-hellstr-m",
@@ -82896,6 +85501,10 @@
       "target": "groen-koncert-2001"
     },
     {
+      "source": "outlandish",
+      "target": "tinderbox-2025"
+    },
+    {
       "source": "peaches",
       "target": "roskilde-festival-2016"
     },
@@ -82958,6 +85567,10 @@
     {
       "source": "saybia",
       "target": "rock-under-broen-2006"
+    },
+    {
+      "source": "saybia",
+      "target": "tinderbox-2016"
     },
     {
       "source": "the-haunted",
@@ -83114,6 +85727,18 @@
     {
       "source": "carpark-north",
       "target": "groen-koncert-2019"
+    },
+    {
+      "source": "carpark-north",
+      "target": "tinderbox-2015"
+    },
+    {
+      "source": "carpark-north",
+      "target": "tinderbox-2022"
+    },
+    {
+      "source": "carpark-north",
+      "target": "tinderbox-2018"
     },
     {
       "source": "plaid",
@@ -83338,6 +85963,18 @@
     {
       "source": "barcode-brothers",
       "target": "smukfest-2002"
+    },
+    {
+      "source": "barcode-brothers",
+      "target": "tinderbox-2019"
+    },
+    {
+      "source": "barcode-brothers",
+      "target": "tinderbox-2022"
+    },
+    {
+      "source": "barcode-brothers",
+      "target": "tinderbox-2018"
     },
     {
       "source": "sigurd-barrett-the-cigars",
@@ -83928,6 +86565,10 @@
       "target": "roskilde-festival-2013"
     },
     {
+      "source": "black-rebel-motorcycle-club",
+      "target": "tinderbox-2015"
+    },
+    {
       "source": "kaizers-orchestra",
       "target": "roskilde-festival-2003"
     },
@@ -83954,6 +86595,18 @@
     {
       "source": "kaizers-orchestra",
       "target": "nibe-festival-2012"
+    },
+    {
+      "source": "kaizers-orchestra",
+      "target": "tinderbox-2024"
+    },
+    {
+      "source": "kaizers-orchestra",
+      "target": "northside-2013"
+    },
+    {
+      "source": "kaizers-orchestra",
+      "target": "northside-2024"
     },
     {
       "source": "tom-z-",
@@ -84820,6 +87473,10 @@
       "target": "roskilde-festival-2017"
     },
     {
+      "source": "nas",
+      "target": "northside-2019"
+    },
+    {
       "source": "stone-sour",
       "target": "roskilde-festival-2018"
     },
@@ -84836,6 +87493,14 @@
       "target": "roskilde-festival-2018"
     },
     {
+      "source": "interpol",
+      "target": "northside-2015"
+    },
+    {
+      "source": "interpol",
+      "target": "northside-2011"
+    },
+    {
       "source": "the-streets",
       "target": "roskilde-festival-2006"
     },
@@ -84846,6 +87511,18 @@
     {
       "source": "the-streets",
       "target": "smukfest-2009"
+    },
+    {
+      "source": "the-streets",
+      "target": "tinderbox-2025"
+    },
+    {
+      "source": "the-streets",
+      "target": "northside-2019"
+    },
+    {
+      "source": "the-streets",
+      "target": "northside-2011"
     },
     {
       "source": "suspekt",
@@ -84898,10 +87575,6 @@
     {
       "source": "suspekt",
       "target": "smukfest-2025"
-    },
-    {
-      "source": "suspekt",
-      "target": "tinderbox-2019"
     },
     {
       "source": "suspekt",
@@ -84980,8 +87653,40 @@
       "target": "groen-koncert-2025"
     },
     {
+      "source": "suspekt",
+      "target": "tinderbox-2019"
+    },
+    {
+      "source": "suspekt",
+      "target": "tinderbox-2022"
+    },
+    {
+      "source": "suspekt",
+      "target": "tinderbox-2017"
+    },
+    {
+      "source": "suspekt",
+      "target": "northside-2017"
+    },
+    {
+      "source": "suspekt",
+      "target": "northside-2012"
+    },
+    {
+      "source": "suspekt",
+      "target": "northside-2019"
+    },
+    {
+      "source": "suspekt",
+      "target": "northside-2022"
+    },
+    {
       "source": "el-p",
       "target": "roskilde-festival-2013"
+    },
+    {
+      "source": "the-kills",
+      "target": "northside-2017"
     },
     {
       "source": "immortal",
@@ -86044,6 +88749,10 @@
       "target": "smukfest-2013"
     },
     {
+      "source": "kings-of-leon",
+      "target": "tinderbox-2017"
+    },
+    {
       "source": "korn",
       "target": "copenhell-2011"
     },
@@ -86068,6 +88777,10 @@
       "target": "smukfest-2008"
     },
     {
+      "source": "franz-ferdinand",
+      "target": "northside-2014"
+    },
+    {
       "source": "within-temptation",
       "target": "smukfest-2007"
     },
@@ -86088,8 +88801,16 @@
       "target": "copenhell-2024"
     },
     {
+      "source": "dropkick-murphys",
+      "target": "tinderbox-2019"
+    },
+    {
       "source": "scissor-sisters",
       "target": "roskilde-festival-2006"
+    },
+    {
+      "source": "scissor-sisters",
+      "target": "tinderbox-2025"
     },
     {
       "source": "the-shins",
@@ -86114,6 +88835,10 @@
     {
       "source": "joss-stone",
       "target": "smukfest-2005"
+    },
+    {
+      "source": "laidback-luke",
+      "target": "tinderbox-2018"
     },
     {
       "source": "meshuggah",
@@ -86216,12 +88941,28 @@
       "target": "groen-koncert-2015"
     },
     {
+      "source": "tina-dickow",
+      "target": "tinderbox-2017"
+    },
+    {
+      "source": "tina-dickow",
+      "target": "northside-2017"
+    },
+    {
       "source": "thomas-dybdahl",
       "target": "smukfest-2005"
     },
     {
       "source": "thomas-dybdahl",
       "target": "roskilde-festival-2007"
+    },
+    {
+      "source": "thomas-dybdahl",
+      "target": "northside-2017"
+    },
+    {
+      "source": "thomas-dybdahl",
+      "target": "northside-2011"
     },
     {
       "source": "raised-fist",
@@ -86704,6 +89445,10 @@
       "target": "groen-koncert-2024"
     },
     {
+      "source": "burhan-g",
+      "target": "tinderbox-2022"
+    },
+    {
       "source": "beth-hart",
       "target": "smukfest-2006"
     },
@@ -86750,6 +89495,10 @@
     {
       "source": "beth-hart",
       "target": "groen-koncert-2007"
+    },
+    {
+      "source": "beth-hart",
+      "target": "tinderbox-2024"
     },
     {
       "source": "stella-polaris-sound-system",
@@ -86842,6 +89591,10 @@
     {
       "source": "peter-sommer",
       "target": "groen-koncert-2005"
+    },
+    {
+      "source": "peter-sommer",
+      "target": "northside-2013"
     },
     {
       "source": "juncker",
@@ -87022,6 +89775,10 @@
     {
       "source": "the-blue-van",
       "target": "vig-festival-2011"
+    },
+    {
+      "source": "the-blue-van",
+      "target": "northside-2014"
     },
     {
       "source": "sterling",
@@ -87788,8 +90545,20 @@
       "target": "roskilde-festival-2022"
     },
     {
+      "source": "jimmy-eat-world",
+      "target": "tinderbox-2017"
+    },
+    {
+      "source": "jimmy-eat-world",
+      "target": "northside-2018"
+    },
+    {
       "source": "four-tet",
       "target": "roskilde-festival-2018"
+    },
+    {
+      "source": "bloc-party",
+      "target": "northside-2016"
     },
     {
       "source": "mastodon",
@@ -87830,6 +90599,14 @@
     {
       "source": "flogging-molly",
       "target": "roskilde-festival-2015"
+    },
+    {
+      "source": "flogging-molly",
+      "target": "tinderbox-2016"
+    },
+    {
+      "source": "flogging-molly",
+      "target": "northside-2014"
     },
     {
       "source": "tiken-jah-fakoly",
@@ -88536,6 +91313,10 @@
       "target": "roskilde-festival-2014"
     },
     {
+      "source": "arctic-monkeys",
+      "target": "northside-2013"
+    },
+    {
       "source": "the-strokes",
       "target": "roskilde-festival-2011"
     },
@@ -88600,6 +91381,10 @@
       "target": "groen-koncert-2009"
     },
     {
+      "source": "volbeat",
+      "target": "tinderbox-2016"
+    },
+    {
       "source": "bullet-for-my-valentine",
       "target": "roskilde-festival-2008"
     },
@@ -88614,6 +91399,10 @@
     {
       "source": "tech-n9ne",
       "target": "roskilde-festival-2010"
+    },
+    {
+      "source": "death-cab-for-cutie",
+      "target": "northside-2015"
     },
     {
       "source": "kaiser-chiefs",
@@ -88656,6 +91445,18 @@
       "target": "smukfest-2018"
     },
     {
+      "source": "whomadewho",
+      "target": "tinderbox-2018"
+    },
+    {
+      "source": "whomadewho",
+      "target": "northside-2017"
+    },
+    {
+      "source": "whomadewho",
+      "target": "northside-2014"
+    },
+    {
       "source": "opeth",
       "target": "copenhell-2011"
     },
@@ -88676,8 +91477,20 @@
       "target": "copenhell-2022"
     },
     {
+      "source": "wolfmother",
+      "target": "tinderbox-2019"
+    },
+    {
       "source": "editors",
       "target": "smukfest-2009"
+    },
+    {
+      "source": "editors",
+      "target": "tinderbox-2018"
+    },
+    {
+      "source": "editors",
+      "target": "northside-2011"
     },
     {
       "source": "goldfrapp",
@@ -88690,6 +91503,14 @@
     {
       "source": "birdy-nam-nam",
       "target": "roskilde-festival-2016"
+    },
+    {
+      "source": "gogol-bordello",
+      "target": "tinderbox-2017"
+    },
+    {
+      "source": "gogol-bordello",
+      "target": "northside-2013"
     },
     {
       "source": "anoushka-shankar",
@@ -88892,6 +91713,10 @@
       "target": "groen-koncert-2008"
     },
     {
+      "source": "magtens-korridorer",
+      "target": "tinderbox-2017"
+    },
+    {
       "source": "pede-b",
       "target": "roskilde-festival-2009"
     },
@@ -88974,6 +91799,18 @@
     {
       "source": "spleen-united",
       "target": "groen-koncert-2008"
+    },
+    {
+      "source": "spleen-united",
+      "target": "tinderbox-2022"
+    },
+    {
+      "source": "spleen-united",
+      "target": "northside-2013"
+    },
+    {
+      "source": "spleen-united",
+      "target": "northside-2022"
     },
     {
       "source": "d-n-",
@@ -89062,6 +91899,18 @@
     {
       "source": "veto",
       "target": "groen-koncert-2007"
+    },
+    {
+      "source": "veto",
+      "target": "northside-2010"
+    },
+    {
+      "source": "veto",
+      "target": "northside-2012"
+    },
+    {
+      "source": "veto",
+      "target": "northside-2011"
     },
     {
       "source": "serena-maneesh",
@@ -89442,6 +92291,10 @@
     {
       "source": "mads-langer",
       "target": "groen-koncert-2016"
+    },
+    {
+      "source": "mads-langer",
+      "target": "tinderbox-2018"
     },
     {
       "source": "vejgaard-t-rnbl-serlaug",
@@ -90144,8 +92997,16 @@
       "target": "roskilde-festival-2011"
     },
     {
+      "source": "the-killers",
+      "target": "tinderbox-2017"
+    },
+    {
       "source": "justice",
       "target": "roskilde-festival-2017"
+    },
+    {
+      "source": "justice",
+      "target": "northside-2012"
     },
     {
       "source": "gojira",
@@ -90184,8 +93045,24 @@
       "target": "roskilde-festival-2013"
     },
     {
+      "source": "the-national",
+      "target": "tinderbox-2016"
+    },
+    {
+      "source": "the-national",
+      "target": "northside-2018"
+    },
+    {
+      "source": "the-national",
+      "target": "northside-2014"
+    },
+    {
       "source": "arcade-fire",
       "target": "roskilde-festival-2017"
+    },
+    {
+      "source": "arcade-fire",
+      "target": "northside-2014"
     },
     {
       "source": "in-flames",
@@ -90206,6 +93083,18 @@
     {
       "source": "lcd-soundsystem",
       "target": "roskilde-festival-2016"
+    },
+    {
+      "source": "lcd-soundsystem",
+      "target": "northside-2025"
+    },
+    {
+      "source": "mando-diao",
+      "target": "northside-2017"
+    },
+    {
+      "source": "the-brian-jonestown-massacre",
+      "target": "northside-2014"
     },
     {
       "source": "the-whitest-boy-alive",
@@ -90270,6 +93159,10 @@
     {
       "source": "choir-of-young-believers",
       "target": "smukfest-2016"
+    },
+    {
+      "source": "choir-of-young-believers",
+      "target": "northside-2012"
     },
     {
       "source": "turboweekend",
@@ -90340,6 +93233,26 @@
       "target": "skive-festival-2013"
     },
     {
+      "source": "turboweekend",
+      "target": "tinderbox-2016"
+    },
+    {
+      "source": "turboweekend",
+      "target": "northside-2010"
+    },
+    {
+      "source": "turboweekend",
+      "target": "northside-2012"
+    },
+    {
+      "source": "turboweekend",
+      "target": "northside-2014"
+    },
+    {
+      "source": "turboweekend",
+      "target": "northside-2025"
+    },
+    {
       "source": "bassekou-kouyate-ngoni-ba",
       "target": "roskilde-festival-2010"
     },
@@ -90366,6 +93279,10 @@
     {
       "source": "the-floor-is-made-of-lava",
       "target": "groen-koncert-2008"
+    },
+    {
+      "source": "the-floor-is-made-of-lava",
+      "target": "northside-2013"
     },
     {
       "source": "analogik",
@@ -91528,6 +94445,18 @@
       "target": "skive-festival-2012"
     },
     {
+      "source": "band-of-horses",
+      "target": "tinderbox-2016"
+    },
+    {
+      "source": "band-of-horses",
+      "target": "northside-2013"
+    },
+    {
+      "source": "band-of-horses",
+      "target": "northside-2011"
+    },
+    {
       "source": "clutch",
       "target": "roskilde-festival-2018"
     },
@@ -91550,6 +94479,10 @@
     {
       "source": "gossip",
       "target": "skive-festival-2010"
+    },
+    {
+      "source": "digitalism",
+      "target": "northside-2016"
     },
     {
       "source": "august",
@@ -91584,6 +94517,14 @@
       "target": "smukfest-2009"
     },
     {
+      "source": "seasick-steve",
+      "target": "northside-2015"
+    },
+    {
+      "source": "yeasayer",
+      "target": "northside-2016"
+    },
+    {
       "source": "the-asteroids-galaxy-tour",
       "target": "roskilde-festival-2010"
     },
@@ -91608,6 +94549,10 @@
       "target": "skive-festival-2010"
     },
     {
+      "source": "the-asteroids-galaxy-tour",
+      "target": "northside-2012"
+    },
+    {
       "source": "when-saints-go-machine",
       "target": "roskilde-festival-2010"
     },
@@ -91630,6 +94575,22 @@
     {
       "source": "when-saints-go-machine",
       "target": "roskilde-festival-2018"
+    },
+    {
+      "source": "when-saints-go-machine",
+      "target": "northside-2013"
+    },
+    {
+      "source": "when-saints-go-machine",
+      "target": "northside-2017"
+    },
+    {
+      "source": "when-saints-go-machine",
+      "target": "northside-2012"
+    },
+    {
+      "source": "when-saints-go-machine",
+      "target": "northside-2024"
     },
     {
       "source": "battles",
@@ -91666,6 +94627,10 @@
     {
       "source": "lucy-love",
       "target": "smukfest-2011"
+    },
+    {
+      "source": "lucy-love",
+      "target": "northside-2014"
     },
     {
       "source": "babylove-the-van-dangos",
@@ -92452,6 +95417,14 @@
       "target": "smukfest-2017"
     },
     {
+      "source": "major-lazer",
+      "target": "tinderbox-2015"
+    },
+    {
+      "source": "major-lazer",
+      "target": "northside-2019"
+    },
+    {
       "source": "bomba-est-reo",
       "target": "roskilde-festival-2012"
     },
@@ -92569,6 +95542,10 @@
     },
     {
       "source": "white-lies",
+      "target": "skive-festival-2010"
+    },
+    {
+      "source": "white-lies",
       "target": "northside-2016"
     },
     {
@@ -92616,8 +95593,28 @@
       "target": "northside-2022"
     },
     {
-      "source": "white-lies",
-      "target": "skive-festival-2010"
+      "source": "grace-jones",
+      "target": "northside-2015"
+    },
+    {
+      "source": "elbow",
+      "target": "northside-2011"
+    },
+    {
+      "source": "eagles-of-death-metal",
+      "target": "tinderbox-2015"
+    },
+    {
+      "source": "eagles-of-death-metal",
+      "target": "northside-2012"
+    },
+    {
+      "source": "the-gaslight-anthem",
+      "target": "tinderbox-2015"
+    },
+    {
+      "source": "the-gaslight-anthem",
+      "target": "northside-2012"
     },
     {
       "source": "fever-ray",
@@ -92626,6 +95623,14 @@
     {
       "source": "fever-ray",
       "target": "roskilde-festival-2023"
+    },
+    {
+      "source": "frightened-rabbit",
+      "target": "northside-2013"
+    },
+    {
+      "source": "2manydjs",
+      "target": "northside-2017"
     },
     {
       "source": "labrassbanda",
@@ -92700,6 +95705,10 @@
       "target": "copenhell-2023"
     },
     {
+      "source": "kellermensch",
+      "target": "northside-2018"
+    },
+    {
       "source": "neurosis",
       "target": "roskilde-festival-2017"
     },
@@ -92758,6 +95767,10 @@
     {
       "source": "den-sorte-skole",
       "target": "roskilde-festival-2017"
+    },
+    {
+      "source": "den-sorte-skole",
+      "target": "northside-2016"
     },
     {
       "source": "ginger-ninja",
@@ -93020,6 +96033,10 @@
       "target": "smukfest-2018"
     },
     {
+      "source": "aura",
+      "target": "tinderbox-2016"
+    },
+    {
       "source": "gas-bi-dua",
       "target": "smukfest-2013"
     },
@@ -93078,6 +96095,10 @@
     {
       "source": "the-william-blakes",
       "target": "smukfest-2012"
+    },
+    {
+      "source": "the-william-blakes",
+      "target": "northside-2013"
     },
     {
       "source": "jens-lysdal",
@@ -93548,8 +96569,20 @@
       "target": "copenhell-2018"
     },
     {
+      "source": "alice-in-chains",
+      "target": "northside-2019"
+    },
+    {
+      "source": "beach-house",
+      "target": "northside-2016"
+    },
+    {
       "source": "prince",
       "target": "smukfest-2013"
+    },
+    {
+      "source": "the-temper-trap",
+      "target": "northside-2016"
     },
     {
       "source": "killswitch-engage",
@@ -93560,6 +96593,10 @@
       "target": "roskilde-festival-2015"
     },
     {
+      "source": "die-antwoord",
+      "target": "tinderbox-2017"
+    },
+    {
       "source": "vampire-weekend",
       "target": "roskilde-festival-2019"
     },
@@ -93568,12 +96605,28 @@
       "target": "roskilde-festival-2014"
     },
     {
+      "source": "kasabian",
+      "target": "northside-2012"
+    },
+    {
       "source": "biffy-clyro",
       "target": "roskilde-festival-2016"
     },
     {
+      "source": "biffy-clyro",
+      "target": "tinderbox-2018"
+    },
+    {
+      "source": "biffy-clyro",
+      "target": "northside-2013"
+    },
+    {
       "source": "kings-of-convenience",
       "target": "roskilde-festival-2022"
+    },
+    {
+      "source": "kings-of-convenience",
+      "target": "northside-2013"
     },
     {
       "source": "moderat",
@@ -93624,6 +96677,10 @@
       "target": "roskilde-festival-2014"
     },
     {
+      "source": "wild-beasts",
+      "target": "northside-2014"
+    },
+    {
       "source": "iceage",
       "target": "roskilde-festival-2011"
     },
@@ -93664,6 +96721,10 @@
       "target": "smukfest-2023"
     },
     {
+      "source": "fallulah",
+      "target": "northside-2013"
+    },
+    {
       "source": "the-rumour-said-fire",
       "target": "smukfest-2010"
     },
@@ -93678,6 +96739,10 @@
     {
       "source": "the-rumour-said-fire",
       "target": "roskilde-festival-2017"
+    },
+    {
+      "source": "the-rumour-said-fire",
+      "target": "northside-2011"
     },
     {
       "source": "staff-benda-bilili",
@@ -93698,6 +96763,10 @@
     {
       "source": "freja-loeb",
       "target": "skive-festival-2012"
+    },
+    {
+      "source": "freja-loeb",
+      "target": "northside-2012"
     },
     {
       "source": "afenginn",
@@ -94052,6 +97121,10 @@
       "target": "groen-koncert-2017"
     },
     {
+      "source": "rasmus-seebach",
+      "target": "tinderbox-2024"
+    },
+    {
       "source": "medina",
       "target": "smukfest-2011"
     },
@@ -94184,6 +97257,10 @@
       "target": "groen-koncert-2016"
     },
     {
+      "source": "nabiha",
+      "target": "northside-2014"
+    },
+    {
       "source": "karen-mukupa",
       "target": "smukfest-2013"
     },
@@ -94286,6 +97363,10 @@
     {
       "source": "selvmord",
       "target": "groen-koncert-2010"
+    },
+    {
+      "source": "selvmord",
+      "target": "northside-2010"
     },
     {
       "source": "roskilde-festival-2011",
@@ -94832,6 +97913,10 @@
       "target": "roskilde-festival-2016"
     },
     {
+      "source": "tame-impala",
+      "target": "northside-2019"
+    },
+    {
       "source": "bring-me-the-horizon",
       "target": "roskilde-festival-2016"
     },
@@ -94848,6 +97933,18 @@
       "target": "roskilde-festival-2016"
     },
     {
+      "source": "james-blake",
+      "target": "tinderbox-2015"
+    },
+    {
+      "source": "james-blake",
+      "target": "northside-2017"
+    },
+    {
+      "source": "james-blake",
+      "target": "northside-2012"
+    },
+    {
       "source": "chase-status",
       "target": "roskilde-festival-2013"
     },
@@ -94860,6 +97957,10 @@
       "target": "roskilde-festival-2016"
     },
     {
+      "source": "foals",
+      "target": "northside-2019"
+    },
+    {
       "source": "parkway-drive",
       "target": "copenhell-2013"
     },
@@ -94870,6 +97971,14 @@
     {
       "source": "parkway-drive",
       "target": "copenhell-2023"
+    },
+    {
+      "source": "little-dragon",
+      "target": "northside-2015"
+    },
+    {
+      "source": "little-dragon",
+      "target": "northside-2012"
     },
     {
       "source": "terror",
@@ -94916,6 +98025,10 @@
       "target": "roskilde-festival-2013"
     },
     {
+      "source": "john-grant",
+      "target": "northside-2015"
+    },
+    {
       "source": "honningbarna",
       "target": "roskilde-festival-2015"
     },
@@ -94930,6 +98043,22 @@
     {
       "source": "oh-land",
       "target": "groen-koncert-2015"
+    },
+    {
+      "source": "oh-land",
+      "target": "tinderbox-2023"
+    },
+    {
+      "source": "oh-land",
+      "target": "northside-2012"
+    },
+    {
+      "source": "oh-land",
+      "target": "northside-2019"
+    },
+    {
+      "source": "oh-land",
+      "target": "northside-2014"
     },
     {
       "source": "de-eneste-to",
@@ -94968,6 +98097,18 @@
       "target": "groen-koncert-2016"
     },
     {
+      "source": "de-eneste-to",
+      "target": "tinderbox-2015"
+    },
+    {
+      "source": "de-eneste-to",
+      "target": "northside-2015"
+    },
+    {
+      "source": "de-eneste-to",
+      "target": "northside-2011"
+    },
+    {
       "source": "hymns-from-nineveh",
       "target": "smukfest-2011"
     },
@@ -95002,6 +98143,10 @@
     {
       "source": "the-eclectic-moniker",
       "target": "skive-festival-2012"
+    },
+    {
+      "source": "the-eclectic-moniker",
+      "target": "northside-2013"
     },
     {
       "source": "selvhenter",
@@ -95334,6 +98479,26 @@
     {
       "source": "rasmus-walter",
       "target": "groen-koncert-2016"
+    },
+    {
+      "source": "rasmus-walter",
+      "target": "tinderbox-2015"
+    },
+    {
+      "source": "rasmus-walter",
+      "target": "tinderbox-2022"
+    },
+    {
+      "source": "rasmus-walter",
+      "target": "tinderbox-2017"
+    },
+    {
+      "source": "rasmus-walter",
+      "target": "northside-2013"
+    },
+    {
+      "source": "rasmus-walter",
+      "target": "northside-2017"
     },
     {
       "source": "dana-fuchs",
@@ -95968,8 +99133,20 @@
       "target": "the-echo-vamper"
     },
     {
+      "source": "mac-miller",
+      "target": "tinderbox-2016"
+    },
+    {
       "source": "wiz-khalifa",
       "target": "roskilde-festival-2016"
+    },
+    {
+      "source": "wiz-khalifa",
+      "target": "tinderbox-2018"
+    },
+    {
+      "source": "bon-iver",
+      "target": "northside-2019"
     },
     {
       "source": "macklemore-and-ryan-lewis",
@@ -95988,6 +99165,10 @@
       "target": "smukfest-2024"
     },
     {
+      "source": "yelawolf",
+      "target": "northside-2016"
+    },
+    {
       "source": "santigold",
       "target": "roskilde-festival-2016"
     },
@@ -95996,8 +99177,16 @@
       "target": "smukfest-2013"
     },
     {
+      "source": "daughter",
+      "target": "northside-2013"
+    },
+    {
       "source": "nils-frahm",
       "target": "roskilde-festival-2015"
+    },
+    {
+      "source": "jack-white",
+      "target": "tinderbox-2018"
     },
     {
       "source": "kesi",
@@ -96044,8 +99233,36 @@
       "target": "groen-koncert-2024"
     },
     {
+      "source": "kesi",
+      "target": "tinderbox-2025"
+    },
+    {
+      "source": "kesi",
+      "target": "tinderbox-2018"
+    },
+    {
+      "source": "kesi",
+      "target": "northside-2018"
+    },
+    {
+      "source": "kesi",
+      "target": "northside-2025"
+    },
+    {
+      "source": "the-vaccines",
+      "target": "northside-2016"
+    },
+    {
+      "source": "the-vaccines",
+      "target": "northside-2011"
+    },
+    {
       "source": "refused",
       "target": "copenhell-2019"
+    },
+    {
+      "source": "refused",
+      "target": "northside-2016"
     },
     {
       "source": "behemoth",
@@ -96120,6 +99337,10 @@
       "target": "skive-festival-2012"
     },
     {
+      "source": "ulige-numre",
+      "target": "northside-2015"
+    },
+    {
       "source": "specktors",
       "target": "smukfest-2012"
     },
@@ -96132,6 +99353,10 @@
       "target": "skive-festival-2019"
     },
     {
+      "source": "specktors",
+      "target": "tinderbox-2025"
+    },
+    {
       "source": "tune-yards",
       "target": "roskilde-festival-2018"
     },
@@ -96142,6 +99367,10 @@
     {
       "source": "julia-holter",
       "target": "roskilde-festival-2019"
+    },
+    {
+      "source": "cold-specks",
+      "target": "northside-2014"
     },
     {
       "source": "baloji",
@@ -96162,6 +99391,10 @@
     {
       "source": "rangleklods",
       "target": "roskilde-festival-2015"
+    },
+    {
+      "source": "rangleklods",
+      "target": "northside-2015"
     },
     {
       "source": "nelson-can",
@@ -96408,6 +99641,10 @@
       "target": "smukfest-2023"
     },
     {
+      "source": "david-guetta",
+      "target": "tinderbox-2016"
+    },
+    {
       "source": "ice-cube",
       "target": "roskilde-festival-2017"
     },
@@ -96418,6 +99655,54 @@
     {
       "source": "lukas-graham",
       "target": "smukfest-2024"
+    },
+    {
+      "source": "lukas-graham",
+      "target": "jelling-musikfestival-2013"
+    },
+    {
+      "source": "lukas-graham",
+      "target": "jelling-musikfestival-2012"
+    },
+    {
+      "source": "lukas-graham",
+      "target": "vig-festival-2015"
+    },
+    {
+      "source": "lukas-graham",
+      "target": "skive-festival-2012"
+    },
+    {
+      "source": "lukas-graham",
+      "target": "rock-under-broen-2024"
+    },
+    {
+      "source": "lukas-graham",
+      "target": "groen-koncert-2013"
+    },
+    {
+      "source": "lukas-graham",
+      "target": "groen-koncert-2014"
+    },
+    {
+      "source": "lukas-graham",
+      "target": "groen-koncert-2015"
+    },
+    {
+      "source": "lukas-graham",
+      "target": "groen-koncert-2018"
+    },
+    {
+      "source": "lukas-graham",
+      "target": "tinderbox-2025"
+    },
+    {
+      "source": "lukas-graham",
+      "target": "tinderbox-2017"
+    },
+    {
+      "source": "lukas-graham",
+      "target": "tinderbox-2016"
     },
     {
       "source": "lukas-graham",
@@ -96469,43 +99754,23 @@
     },
     {
       "source": "lukas-graham",
-      "target": "jelling-musikfestival-2013"
-    },
-    {
-      "source": "lukas-graham",
-      "target": "jelling-musikfestival-2012"
-    },
-    {
-      "source": "lukas-graham",
-      "target": "vig-festival-2015"
-    },
-    {
-      "source": "lukas-graham",
-      "target": "skive-festival-2012"
-    },
-    {
-      "source": "lukas-graham",
-      "target": "rock-under-broen-2024"
-    },
-    {
-      "source": "lukas-graham",
-      "target": "groen-koncert-2013"
-    },
-    {
-      "source": "lukas-graham",
-      "target": "groen-koncert-2014"
-    },
-    {
-      "source": "lukas-graham",
-      "target": "groen-koncert-2015"
-    },
-    {
-      "source": "lukas-graham",
-      "target": "groen-koncert-2018"
+      "target": "northside-2025"
     },
     {
       "source": "veronica-maggio",
       "target": "roskilde-festival-2015"
+    },
+    {
+      "source": "veronica-maggio",
+      "target": "tinderbox-2017"
+    },
+    {
+      "source": "veronica-maggio",
+      "target": "tinderbox-2016"
+    },
+    {
+      "source": "veronica-maggio",
+      "target": "northside-2017"
     },
     {
       "source": "panamah",
@@ -96576,6 +99841,10 @@
       "target": "groen-koncert-2017"
     },
     {
+      "source": "christopher",
+      "target": "tinderbox-2025"
+    },
+    {
       "source": "marie-key",
       "target": "roskilde-festival-2013"
     },
@@ -96614,6 +99883,10 @@
     {
       "source": "marie-key",
       "target": "rock-under-broen-2014"
+    },
+    {
+      "source": "marie-key",
+      "target": "tinderbox-2015"
     },
     {
       "source": "kato",
@@ -96680,6 +99953,10 @@
       "target": "groen-koncert-2019"
     },
     {
+      "source": "kato",
+      "target": "tinderbox-2018"
+    },
+    {
       "source": "kidd",
       "target": "groen-koncert-2014"
     },
@@ -96732,6 +100009,10 @@
       "target": "groen-koncert-2016"
     },
     {
+      "source": "shaka-loveless",
+      "target": "northside-2013"
+    },
+    {
       "source": "rune-rk",
       "target": "skive-festival-2012"
     },
@@ -96770,6 +100051,10 @@
     {
       "source": "reptile-youth",
       "target": "smukfest-2014"
+    },
+    {
+      "source": "reptile-youth",
+      "target": "northside-2014"
     },
     {
       "source": "queen-machine",
@@ -97412,8 +100697,28 @@
       "target": "roskilde-festival-2017"
     },
     {
+      "source": "the-lumineers",
+      "target": "tinderbox-2019"
+    },
+    {
       "source": "disclosure",
       "target": "roskilde-festival-2015"
+    },
+    {
+      "source": "crystal-castles",
+      "target": "northside-2011"
+    },
+    {
+      "source": "of-monsters-and-men",
+      "target": "tinderbox-2016"
+    },
+    {
+      "source": "joey-badass",
+      "target": "tinderbox-2015"
+    },
+    {
+      "source": "flume",
+      "target": "northside-2016"
     },
     {
       "source": "m-",
@@ -97456,6 +100761,14 @@
       "target": "copenhell-2017"
     },
     {
+      "source": "unknown-mortal-orchestra",
+      "target": "northside-2016"
+    },
+    {
+      "source": "jake-bugg",
+      "target": "northside-2016"
+    },
+    {
       "source": "highasakite",
       "target": "roskilde-festival-2016"
     },
@@ -97496,8 +100809,16 @@
       "target": "roskilde-festival-2023"
     },
     {
+      "source": "angel-haze",
+      "target": "tinderbox-2015"
+    },
+    {
       "source": "blood-command",
       "target": "roskilde-festival-2017"
+    },
+    {
+      "source": "nonsens",
+      "target": "tinderbox-2017"
     },
     {
       "source": "anaal-nathrakh",
@@ -97512,12 +100833,20 @@
       "target": "roskilde-festival-2019"
     },
     {
+      "source": "quadron",
+      "target": "northside-2014"
+    },
+    {
       "source": "bixiga-70",
       "target": "roskilde-festival-2024"
     },
     {
       "source": "savages",
       "target": "roskilde-festival-2016"
+    },
+    {
+      "source": "savages",
+      "target": "northside-2015"
     },
     {
       "source": "nils-bech",
@@ -97530,6 +100859,14 @@
     {
       "source": "baby-in-vain",
       "target": "smukfest-2018"
+    },
+    {
+      "source": "baby-in-vain",
+      "target": "tinderbox-2016"
+    },
+    {
+      "source": "baby-in-vain",
+      "target": "northside-2014"
     },
     {
       "source": "go-go-berlin",
@@ -97566,6 +100903,14 @@
     {
       "source": "go-go-berlin",
       "target": "rock-under-broen-2014"
+    },
+    {
+      "source": "go-go-berlin",
+      "target": "tinderbox-2015"
+    },
+    {
+      "source": "go-go-berlin",
+      "target": "northside-2015"
     },
     {
       "source": "christian-hjelm",
@@ -97752,6 +101097,10 @@
       "target": "smukfest-2015"
     },
     {
+      "source": "agnes-obel",
+      "target": "northside-2017"
+    },
+    {
       "source": "solange-knowles",
       "target": "roskilde-festival-2017"
     },
@@ -97814,6 +101163,18 @@
     {
       "source": "ukendt-kunstner",
       "target": "groen-koncert-2017"
+    },
+    {
+      "source": "ukendt-kunstner",
+      "target": "tinderbox-2024"
+    },
+    {
+      "source": "ukendt-kunstner",
+      "target": "tinderbox-2016"
+    },
+    {
+      "source": "ukendt-kunstner",
+      "target": "northside-2024"
     },
     {
       "source": "almost-ac-dc",
@@ -97885,6 +101246,38 @@
     },
     {
       "source": "folkeklubben",
+      "target": "jelling-musikfestival-2022"
+    },
+    {
+      "source": "folkeklubben",
+      "target": "jelling-musikfestival-2019"
+    },
+    {
+      "source": "folkeklubben",
+      "target": "jelling-musikfestival-2015"
+    },
+    {
+      "source": "folkeklubben",
+      "target": "jelling-musikfestival-2014"
+    },
+    {
+      "source": "folkeklubben",
+      "target": "nibe-festival-2017"
+    },
+    {
+      "source": "folkeklubben",
+      "target": "rock-under-broen-2023"
+    },
+    {
+      "source": "folkeklubben",
+      "target": "tinderbox-2023"
+    },
+    {
+      "source": "folkeklubben",
+      "target": "tinderbox-2017"
+    },
+    {
+      "source": "folkeklubben",
       "target": "northside-2016"
     },
     {
@@ -97930,30 +101323,6 @@
     {
       "source": "folkeklubben",
       "target": "northside-2022"
-    },
-    {
-      "source": "folkeklubben",
-      "target": "jelling-musikfestival-2022"
-    },
-    {
-      "source": "folkeklubben",
-      "target": "jelling-musikfestival-2019"
-    },
-    {
-      "source": "folkeklubben",
-      "target": "jelling-musikfestival-2015"
-    },
-    {
-      "source": "folkeklubben",
-      "target": "jelling-musikfestival-2014"
-    },
-    {
-      "source": "folkeklubben",
-      "target": "nibe-festival-2017"
-    },
-    {
-      "source": "folkeklubben",
-      "target": "rock-under-broen-2023"
     },
     {
       "source": "mathilde-falch",
@@ -98484,8 +101853,20 @@
       "target": "tinderbox-2019"
     },
     {
+      "source": "diplo",
+      "target": "northside-2018"
+    },
+    {
       "source": "bastille",
       "target": "smukfest-2014"
+    },
+    {
+      "source": "bastille",
+      "target": "tinderbox-2018"
+    },
+    {
+      "source": "bastille",
+      "target": "northside-2017"
     },
     {
       "source": "pusha-t",
@@ -98536,6 +101917,10 @@
       "target": "northside-2022"
     },
     {
+      "source": "earl-sweatshirt",
+      "target": "northside-2015"
+    },
+    {
       "source": "rob-zombie",
       "target": "copenhell-2017"
     },
@@ -98548,12 +101933,24 @@
       "target": "roskilde-festival-2022"
     },
     {
+      "source": "haim",
+      "target": "tinderbox-2017"
+    },
+    {
+      "source": "rl-grime",
+      "target": "tinderbox-2017"
+    },
+    {
       "source": "future-islands",
       "target": "smukfest-2015"
     },
     {
       "source": "future-islands",
       "target": "roskilde-festival-2017"
+    },
+    {
+      "source": "future-islands",
+      "target": "northside-2018"
     },
     {
       "source": "cashmere-cat",
@@ -98648,6 +102045,50 @@
       "target": "groen-koncert-2017"
     },
     {
+      "source": "the-minds-of-99",
+      "target": "tinderbox-2019"
+    },
+    {
+      "source": "the-minds-of-99",
+      "target": "tinderbox-2025"
+    },
+    {
+      "source": "the-minds-of-99",
+      "target": "tinderbox-2023"
+    },
+    {
+      "source": "the-minds-of-99",
+      "target": "tinderbox-2022"
+    },
+    {
+      "source": "the-minds-of-99",
+      "target": "tinderbox-2016"
+    },
+    {
+      "source": "the-minds-of-99",
+      "target": "northside-2016"
+    },
+    {
+      "source": "the-minds-of-99",
+      "target": "northside-2015"
+    },
+    {
+      "source": "the-minds-of-99",
+      "target": "northside-2019"
+    },
+    {
+      "source": "the-minds-of-99",
+      "target": "northside-2014"
+    },
+    {
+      "source": "the-minds-of-99",
+      "target": "northside-2022"
+    },
+    {
+      "source": "the-minds-of-99",
+      "target": "northside-2025"
+    },
+    {
       "source": "hexis",
       "target": "copenhell-2024"
     },
@@ -98672,6 +102113,18 @@
       "target": "roskilde-festival-2017"
     },
     {
+      "source": "warpaint",
+      "target": "northside-2018"
+    },
+    {
+      "source": "nause",
+      "target": "tinderbox-2018"
+    },
+    {
+      "source": "deerhunter",
+      "target": "northside-2018"
+    },
+    {
       "source": "blaue-blume",
       "target": "roskilde-festival-2016"
     },
@@ -98684,8 +102137,16 @@
       "target": "jelling-musikfestival-2016"
     },
     {
+      "source": "emilie-nicolas",
+      "target": "northside-2015"
+    },
+    {
       "source": "snavs",
       "target": "smukfest-2015"
+    },
+    {
+      "source": "snavs",
+      "target": "tinderbox-2018"
     },
     {
       "source": "juana-molina",
@@ -98881,6 +102342,10 @@
     },
     {
       "source": "the-1975",
+      "target": "tinderbox-2016"
+    },
+    {
+      "source": "the-1975",
       "target": "northside-2016"
     },
     {
@@ -98940,6 +102405,10 @@
       "target": "skive-festival-2014"
     },
     {
+      "source": "sivas",
+      "target": "northside-2015"
+    },
+    {
       "source": "example",
       "target": "smukfest-2024"
     },
@@ -98984,8 +102453,20 @@
       "target": "groen-koncert-2014"
     },
     {
+      "source": "topgunn",
+      "target": "tinderbox-2015"
+    },
+    {
       "source": "rival-sons",
       "target": "copenhell-2016"
+    },
+    {
+      "source": "rival-sons",
+      "target": "tinderbox-2015"
+    },
+    {
+      "source": "rival-sons",
+      "target": "northside-2018"
     },
     {
       "source": "jimilian",
@@ -99032,6 +102513,10 @@
       "target": "groen-koncert-2017"
     },
     {
+      "source": "kongsted",
+      "target": "tinderbox-2017"
+    },
+    {
       "source": "julias-moon",
       "target": "smukfest-2015"
     },
@@ -99046,6 +102531,10 @@
     {
       "source": "the-mountains",
       "target": "jelling-musikfestival-2014"
+    },
+    {
+      "source": "the-mountains",
+      "target": "northside-2014"
     },
     {
       "source": "jonny-hefty-j-den",
@@ -99600,16 +103089,36 @@
       "target": "smukfest-2016"
     },
     {
+      "source": "kygo",
+      "target": "tinderbox-2018"
+    },
+    {
       "source": "g-eazy",
       "target": "roskilde-festival-2017"
+    },
+    {
+      "source": "kaytranada",
+      "target": "northside-2019"
+    },
+    {
+      "source": "kaytranada",
+      "target": "northside-2024"
     },
     {
       "source": "father-john-misty",
       "target": "roskilde-festival-2017"
     },
     {
+      "source": "father-john-misty",
+      "target": "northside-2018"
+    },
+    {
       "source": "jamie-xx",
       "target": "roskilde-festival-2025"
+    },
+    {
+      "source": "jamie-xx",
+      "target": "northside-2016"
     },
     {
       "source": "lamb-of-god",
@@ -99618,6 +103127,14 @@
     {
       "source": "lamb-of-god",
       "target": "copenhell-2019"
+    },
+    {
+      "source": "run-the-jewels",
+      "target": "northside-2017"
+    },
+    {
+      "source": "the-war-on-drugs",
+      "target": "northside-2018"
     },
     {
       "source": "jungle",
@@ -99697,10 +103214,6 @@
     },
     {
       "source": "benal",
-      "target": "tinderbox-2019"
-    },
-    {
-      "source": "benal",
       "target": "jelling-musikfestival-2018"
     },
     {
@@ -99710,6 +103223,14 @@
     {
       "source": "benal",
       "target": "nibe-festival-2017"
+    },
+    {
+      "source": "benal",
+      "target": "tinderbox-2019"
+    },
+    {
+      "source": "benal",
+      "target": "northside-2019"
     },
     {
       "source": "silvana-imam",
@@ -99734,6 +103255,18 @@
     {
       "source": "av-av-av",
       "target": "roskilde-festival-2017"
+    },
+    {
+      "source": "av-av-av",
+      "target": "tinderbox-2016"
+    },
+    {
+      "source": "av-av-av",
+      "target": "northside-2016"
+    },
+    {
+      "source": "broken-twin",
+      "target": "northside-2015"
     },
     {
       "source": "de-underjordiske",
@@ -99900,6 +103433,26 @@
       "target": "groen-koncert-2024"
     },
     {
+      "source": "scarlet-pleasure",
+      "target": "tinderbox-2022"
+    },
+    {
+      "source": "scarlet-pleasure",
+      "target": "tinderbox-2018"
+    },
+    {
+      "source": "scarlet-pleasure",
+      "target": "tinderbox-2016"
+    },
+    {
+      "source": "scarlet-pleasure",
+      "target": "northside-2016"
+    },
+    {
+      "source": "scarlet-pleasure",
+      "target": "northside-2015"
+    },
+    {
       "source": "emil-stabil",
       "target": "roskilde-festival-2017"
     },
@@ -99950,6 +103503,18 @@
     {
       "source": "marvelous-mosell",
       "target": "nibe-festival-2016"
+    },
+    {
+      "source": "marvelous-mosell",
+      "target": "tinderbox-2025"
+    },
+    {
+      "source": "marvelous-mosell",
+      "target": "northside-2016"
+    },
+    {
+      "source": "marvelous-mosell",
+      "target": "northside-2018"
     },
     {
       "source": "sonja-hald",
@@ -100564,6 +104129,10 @@
       "target": "roskilde-festival-2024"
     },
     {
+      "source": "aurora",
+      "target": "northside-2018"
+    },
+    {
       "source": "stormzy",
       "target": "roskilde-festival-2018"
     },
@@ -100572,8 +104141,16 @@
       "target": "roskilde-festival-2025"
     },
     {
+      "source": "stormzy",
+      "target": "tinderbox-2022"
+    },
+    {
       "source": "vince-staples",
       "target": "roskilde-festival-2018"
+    },
+    {
+      "source": "vince-staples",
+      "target": "northside-2024"
     },
     {
       "source": "odesza",
@@ -100632,8 +104209,20 @@
       "target": "northside-2022"
     },
     {
+      "source": "hayden-james",
+      "target": "tinderbox-2022"
+    },
+    {
+      "source": "childrenn",
+      "target": "northside-2016"
+    },
+    {
       "source": "liss",
       "target": "smukfest-2016"
+    },
+    {
+      "source": "liss",
+      "target": "northside-2019"
     },
     {
       "source": "saveus",
@@ -100676,6 +104265,22 @@
       "target": "groen-koncert-2023"
     },
     {
+      "source": "saveus",
+      "target": "tinderbox-2025"
+    },
+    {
+      "source": "saveus",
+      "target": "tinderbox-2022"
+    },
+    {
+      "source": "saveus",
+      "target": "northside-2019"
+    },
+    {
+      "source": "saveus",
+      "target": "northside-2022"
+    },
+    {
       "source": "jamaika",
       "target": "smukfest-2017"
     },
@@ -100712,6 +104317,30 @@
       "target": "skive-festival-2025"
     },
     {
+      "source": "jonah-blacksmith",
+      "target": "tinderbox-2024"
+    },
+    {
+      "source": "jonah-blacksmith",
+      "target": "tinderbox-2022"
+    },
+    {
+      "source": "jonah-blacksmith",
+      "target": "tinderbox-2017"
+    },
+    {
+      "source": "jonah-blacksmith",
+      "target": "northside-2019"
+    },
+    {
+      "source": "jonah-blacksmith",
+      "target": "northside-2022"
+    },
+    {
+      "source": "jonah-blacksmith",
+      "target": "northside-2024"
+    },
+    {
       "source": "gaye-su-akyol",
       "target": "roskilde-festival-2019"
     },
@@ -100736,6 +104365,14 @@
       "target": "roskilde-festival-2018"
     },
     {
+      "source": "sleaford-mods",
+      "target": "northside-2018"
+    },
+    {
+      "source": "sleaford-mods",
+      "target": "northside-2024"
+    },
+    {
       "source": "phlake",
       "target": "smukfest-2016"
     },
@@ -100750,6 +104387,34 @@
     {
       "source": "phlake",
       "target": "smukfest-2023"
+    },
+    {
+      "source": "phlake",
+      "target": "jelling-musikfestival-2019"
+    },
+    {
+      "source": "phlake",
+      "target": "jelling-musikfestival-2017"
+    },
+    {
+      "source": "phlake",
+      "target": "nibe-festival-2017"
+    },
+    {
+      "source": "phlake",
+      "target": "nibe-festival-2016"
+    },
+    {
+      "source": "phlake",
+      "target": "groen-koncert-2018"
+    },
+    {
+      "source": "phlake",
+      "target": "tinderbox-2019"
+    },
+    {
+      "source": "phlake",
+      "target": "tinderbox-2017"
     },
     {
       "source": "phlake",
@@ -100800,30 +104465,6 @@
       "target": "northside-2022"
     },
     {
-      "source": "phlake",
-      "target": "tinderbox-2019"
-    },
-    {
-      "source": "phlake",
-      "target": "jelling-musikfestival-2019"
-    },
-    {
-      "source": "phlake",
-      "target": "jelling-musikfestival-2017"
-    },
-    {
-      "source": "phlake",
-      "target": "nibe-festival-2017"
-    },
-    {
-      "source": "phlake",
-      "target": "nibe-festival-2016"
-    },
-    {
-      "source": "phlake",
-      "target": "groen-koncert-2018"
-    },
-    {
       "source": "alex-vargas",
       "target": "smukfest-2016"
     },
@@ -100860,6 +104501,22 @@
       "target": "nibe-festival-2016"
     },
     {
+      "source": "alex-vargas",
+      "target": "tinderbox-2022"
+    },
+    {
+      "source": "alex-vargas",
+      "target": "tinderbox-2018"
+    },
+    {
+      "source": "alex-vargas",
+      "target": "northside-2016"
+    },
+    {
+      "source": "alex-vargas",
+      "target": "northside-2022"
+    },
+    {
       "source": "blues-pills",
       "target": "copenhell-2015"
     },
@@ -100876,8 +104533,20 @@
       "target": "nibe-festival-2017"
     },
     {
+      "source": "bisse",
+      "target": "tinderbox-2018"
+    },
+    {
+      "source": "bisse",
+      "target": "northside-2017"
+    },
+    {
       "source": "katinka",
       "target": "smukfest-2016"
+    },
+    {
+      "source": "katinka",
+      "target": "northside-2017"
     },
     {
       "source": "soleima",
@@ -100906,6 +104575,14 @@
     {
       "source": "chinah",
       "target": "nibe-festival-2017"
+    },
+    {
+      "source": "chinah",
+      "target": "tinderbox-2017"
+    },
+    {
+      "source": "chinah",
+      "target": "northside-2017"
     },
     {
       "source": "bers-rk",
@@ -100942,6 +104619,14 @@
     {
       "source": "halshug",
       "target": "copenhell-2015"
+    },
+    {
+      "source": "lightwave-empire",
+      "target": "tinderbox-2017"
+    },
+    {
+      "source": "lightwave-empire",
+      "target": "northside-2017"
     },
     {
       "source": "klub-27",
@@ -101020,6 +104705,10 @@
       "target": "smukfest-2025"
     },
     {
+      "source": "martin-garrix",
+      "target": "tinderbox-2017"
+    },
+    {
       "source": "jess-glynne",
       "target": "smukfest-2025"
     },
@@ -101054,6 +104743,38 @@
     {
       "source": "gilli",
       "target": "smukfest-2025"
+    },
+    {
+      "source": "gilli",
+      "target": "nibe-festival-2017"
+    },
+    {
+      "source": "gilli",
+      "target": "nibe-festival-2016"
+    },
+    {
+      "source": "gilli",
+      "target": "rock-under-broen-2025"
+    },
+    {
+      "source": "gilli",
+      "target": "rock-under-broen-2024"
+    },
+    {
+      "source": "gilli",
+      "target": "groen-koncert-2016"
+    },
+    {
+      "source": "gilli",
+      "target": "groen-koncert-2025"
+    },
+    {
+      "source": "gilli",
+      "target": "tinderbox-2019"
+    },
+    {
+      "source": "gilli",
+      "target": "tinderbox-2017"
     },
     {
       "source": "gilli",
@@ -101104,36 +104825,28 @@
       "target": "northside-2022"
     },
     {
-      "source": "gilli",
-      "target": "tinderbox-2019"
-    },
-    {
-      "source": "gilli",
-      "target": "nibe-festival-2017"
-    },
-    {
-      "source": "gilli",
-      "target": "nibe-festival-2016"
-    },
-    {
-      "source": "gilli",
-      "target": "rock-under-broen-2025"
-    },
-    {
-      "source": "gilli",
-      "target": "rock-under-broen-2024"
-    },
-    {
-      "source": "gilli",
-      "target": "groen-koncert-2016"
-    },
-    {
-      "source": "gilli",
-      "target": "groen-koncert-2025"
+      "source": "toomanylefthands",
+      "target": "smukfest-2023"
     },
     {
       "source": "toomanylefthands",
-      "target": "smukfest-2023"
+      "target": "tinderbox-2019"
+    },
+    {
+      "source": "toomanylefthands",
+      "target": "tinderbox-2022"
+    },
+    {
+      "source": "toomanylefthands",
+      "target": "tinderbox-2018"
+    },
+    {
+      "source": "toomanylefthands",
+      "target": "tinderbox-2017"
+    },
+    {
+      "source": "toomanylefthands",
+      "target": "tinderbox-2016"
     },
     {
       "source": "stine-bramsen",
@@ -101154,6 +104867,14 @@
     {
       "source": "stine-bramsen",
       "target": "groen-koncert-2016"
+    },
+    {
+      "source": "stine-bramsen",
+      "target": "tinderbox-2023"
+    },
+    {
+      "source": "stine-bramsen",
+      "target": "tinderbox-2016"
     },
     {
       "source": "maceo-parker",
@@ -101202,6 +104923,14 @@
     {
       "source": "velvet-volume",
       "target": "nibe-festival-2016"
+    },
+    {
+      "source": "velvet-volume",
+      "target": "tinderbox-2018"
+    },
+    {
+      "source": "velvet-volume",
+      "target": "northside-2016"
     },
     {
       "source": "roskilde-festival-2017",
@@ -101848,6 +105577,10 @@
       "target": "other-currents"
     },
     {
+      "source": "lil-uzi-vert",
+      "target": "tinderbox-2019"
+    },
+    {
       "source": "tinashe",
       "target": "roskilde-festival-2024"
     },
@@ -101884,8 +105617,32 @@
       "target": "copenhell-2015"
     },
     {
+      "source": "slowdive",
+      "target": "northside-2024"
+    },
+    {
+      "source": "the-xx",
+      "target": "northside-2012"
+    },
+    {
       "source": "idles",
       "target": "roskilde-festival-2022"
+    },
+    {
+      "source": "idles",
+      "target": "northside-2019"
+    },
+    {
+      "source": "royal-blood",
+      "target": "tinderbox-2015"
+    },
+    {
+      "source": "royal-blood",
+      "target": "northside-2014"
+    },
+    {
+      "source": "royal-blood",
+      "target": "northside-2024"
     },
     {
       "source": "of-mice-men",
@@ -101934,6 +105691,14 @@
     {
       "source": "anthrax",
       "target": "copenhell-2014"
+    },
+    {
+      "source": "the-avalanches",
+      "target": "northside-2022"
+    },
+    {
+      "source": "the-jesus-and-mary-chain",
+      "target": "northside-2015"
     },
     {
       "source": "noname",
@@ -102016,12 +105781,20 @@
       "target": "smukfest-2025"
     },
     {
+      "source": "barselona",
+      "target": "northside-2024"
+    },
+    {
       "source": "47soul",
       "target": "roskilde-festival-2024"
     },
     {
       "source": "high-on-fire",
       "target": "copenhell-2024"
+    },
+    {
+      "source": "shame",
+      "target": "northside-2024"
     },
     {
       "source": "carl-emil-petersen",
@@ -102034,6 +105807,10 @@
     {
       "source": "bogfinkevej",
       "target": "smukfest-2018"
+    },
+    {
+      "source": "jagwar-ma",
+      "target": "northside-2013"
     },
     {
       "source": "bcuc",
@@ -102556,12 +106333,28 @@
       "target": "smukfest-2024"
     },
     {
+      "source": "zara-larsson",
+      "target": "tinderbox-2022"
+    },
+    {
       "source": "clean-bandit",
       "target": "smukfest-2025"
     },
     {
       "source": "clean-bandit",
       "target": "skive-festival-2025"
+    },
+    {
+      "source": "ellie-goulding",
+      "target": "tinderbox-2015"
+    },
+    {
+      "source": "ellie-goulding",
+      "target": "northside-2013"
+    },
+    {
+      "source": "mark-ronson",
+      "target": "northside-2019"
     },
     {
       "source": "sherpa",
@@ -102594,6 +106387,10 @@
     {
       "source": "martin-jensen",
       "target": "rock-under-broen-2022"
+    },
+    {
+      "source": "martin-jensen",
+      "target": "tinderbox-2019"
     },
     {
       "source": "ude-af-kontrol",
@@ -102682,6 +106479,10 @@
     {
       "source": "hjalmer",
       "target": "skive-festival-2025"
+    },
+    {
+      "source": "hjalmer",
+      "target": "tinderbox-2022"
     },
     {
       "source": "gulddreng",
@@ -102790,6 +106591,10 @@
     {
       "source": "jacob-dinesen",
       "target": "rock-under-broen-2018"
+    },
+    {
+      "source": "jacob-dinesen",
+      "target": "tinderbox-2017"
     },
     {
       "source": "jakob-sveistrup",
@@ -103488,6 +107293,10 @@
       "target": "roskilde-festival-2022"
     },
     {
+      "source": "khalid",
+      "target": "northside-2019"
+    },
+    {
       "source": "cardi-b",
       "target": "roskilde-festival-2019"
     },
@@ -103496,8 +107305,24 @@
       "target": "copenhell-2022"
     },
     {
+      "source": "maribou-state",
+      "target": "northside-2025"
+    },
+    {
+      "source": "stefflon-don",
+      "target": "tinderbox-2019"
+    },
+    {
+      "source": "stefflon-don",
+      "target": "northside-2024"
+    },
+    {
       "source": "the-blaze",
       "target": "roskilde-festival-2022"
+    },
+    {
+      "source": "the-blaze",
+      "target": "northside-2019"
     },
     {
       "source": "artigeardit",
@@ -103566,6 +107391,14 @@
     {
       "source": "jada",
       "target": "groen-koncert-2024"
+    },
+    {
+      "source": "jada",
+      "target": "tinderbox-2025"
+    },
+    {
+      "source": "jada",
+      "target": "northside-2019"
     },
     {
       "source": "madball",
@@ -104028,8 +107861,20 @@
       "target": "smukfest-2025"
     },
     {
+      "source": "afrojack",
+      "target": "tinderbox-2017"
+    },
+    {
       "source": "tom-jones",
       "target": "nibe-festival-2022"
+    },
+    {
+      "source": "iamjj",
+      "target": "tinderbox-2018"
+    },
+    {
+      "source": "iamjj",
+      "target": "northside-2017"
     },
     {
       "source": "italobrothers",
@@ -104076,6 +107921,14 @@
       "target": "groen-koncert-2015"
     },
     {
+      "source": "hedegaard",
+      "target": "tinderbox-2022"
+    },
+    {
+      "source": "hedegaard",
+      "target": "tinderbox-2016"
+    },
+    {
       "source": "skinz",
       "target": "smukfest-2024"
     },
@@ -104096,8 +107949,20 @@
       "target": "groen-koncert-2017"
     },
     {
+      "source": "nicklas-sahl",
+      "target": "tinderbox-2025"
+    },
+    {
       "source": "hugo-helmig",
       "target": "roskilde-festival-2019"
+    },
+    {
+      "source": "off-bloom",
+      "target": "tinderbox-2018"
+    },
+    {
+      "source": "off-bloom",
+      "target": "northside-2017"
     },
     {
       "source": "bikstok",
@@ -105080,8 +108945,24 @@
       "target": "roskilde-festival-2019"
     },
     {
+      "source": "tove-lo",
+      "target": "tinderbox-2017"
+    },
+    {
+      "source": "tove-lo",
+      "target": "northside-2019"
+    },
+    {
       "source": "denzel-curry",
       "target": "roskilde-festival-2019"
+    },
+    {
+      "source": "denzel-curry",
+      "target": "northside-2025"
+    },
+    {
+      "source": "070-shake",
+      "target": "northside-2024"
     },
     {
       "source": "benny-jamz",
@@ -105098,6 +108979,10 @@
     {
       "source": "lorna-shore",
       "target": "copenhell-2025"
+    },
+    {
+      "source": "loyle-carner",
+      "target": "northside-2024"
     },
     {
       "source": "d1ma",
@@ -105137,6 +109022,18 @@
     },
     {
       "source": "tobias-rahim",
+      "target": "jelling-musikfestival-2023"
+    },
+    {
+      "source": "tobias-rahim",
+      "target": "rock-under-broen-2023"
+    },
+    {
+      "source": "tobias-rahim",
+      "target": "groen-koncert-2024"
+    },
+    {
+      "source": "tobias-rahim",
       "target": "northside-2016"
     },
     {
@@ -105184,18 +109081,6 @@
       "target": "northside-2022"
     },
     {
-      "source": "tobias-rahim",
-      "target": "jelling-musikfestival-2023"
-    },
-    {
-      "source": "tobias-rahim",
-      "target": "rock-under-broen-2023"
-    },
-    {
-      "source": "tobias-rahim",
-      "target": "groen-koncert-2024"
-    },
-    {
       "source": "kundo",
       "target": "smukfest-2023"
     },
@@ -105206,6 +109091,10 @@
     {
       "source": "kundo",
       "target": "smukfest-2025"
+    },
+    {
+      "source": "kundo",
+      "target": "tinderbox-2025"
     },
     {
       "source": "wargasm",
@@ -105225,6 +109114,10 @@
     },
     {
       "source": "blaest",
+      "target": "groen-koncert-2024"
+    },
+    {
+      "source": "blaest",
       "target": "northside-2016"
     },
     {
@@ -105270,10 +109163,6 @@
     {
       "source": "blaest",
       "target": "northside-2022"
-    },
-    {
-      "source": "blaest",
-      "target": "groen-koncert-2024"
     },
     {
       "source": "kalaset",
@@ -105320,6 +109209,10 @@
       "target": "vig-festival-2024"
     },
     {
+      "source": "ida-laurberg",
+      "target": "tinderbox-2025"
+    },
+    {
       "source": "pil",
       "target": "smukfest-2023"
     },
@@ -105330,6 +109223,22 @@
     {
       "source": "pil",
       "target": "smukfest-2024"
+    },
+    {
+      "source": "pil",
+      "target": "jelling-musikfestival-2025"
+    },
+    {
+      "source": "pil",
+      "target": "jelling-musikfestival-2023"
+    },
+    {
+      "source": "pil",
+      "target": "skive-festival-2025"
+    },
+    {
+      "source": "pil",
+      "target": "groen-koncert-2025"
     },
     {
       "source": "pil",
@@ -105378,22 +109287,6 @@
     {
       "source": "pil",
       "target": "northside-2022"
-    },
-    {
-      "source": "pil",
-      "target": "jelling-musikfestival-2025"
-    },
-    {
-      "source": "pil",
-      "target": "jelling-musikfestival-2023"
-    },
-    {
-      "source": "pil",
-      "target": "skive-festival-2025"
-    },
-    {
-      "source": "pil",
-      "target": "groen-koncert-2025"
     },
     {
       "source": "august-hoyen",
@@ -105456,6 +109349,10 @@
       "target": "northside-2022"
     },
     {
+      "source": "guldimund",
+      "target": "northside-2024"
+    },
+    {
       "source": "zar-paulo",
       "target": "smukfest-2023"
     },
@@ -105466,6 +109363,10 @@
     {
       "source": "zar-paulo",
       "target": "smukfest-2024"
+    },
+    {
+      "source": "zar-paulo",
+      "target": "tinderbox-2025"
     },
     {
       "source": "zar-paulo",
@@ -105514,6 +109415,10 @@
     {
       "source": "zar-paulo",
       "target": "northside-2022"
+    },
+    {
+      "source": "zar-paulo",
+      "target": "northside-2025"
     },
     {
       "source": "code-orange",
@@ -105697,6 +109602,10 @@
     },
     {
       "source": "prisma",
+      "target": "jelling-musikfestival-2023"
+    },
+    {
+      "source": "prisma",
       "target": "northside-2016"
     },
     {
@@ -105742,10 +109651,6 @@
     {
       "source": "prisma",
       "target": "northside-2022"
-    },
-    {
-      "source": "prisma",
-      "target": "jelling-musikfestival-2023"
     },
     {
       "source": "liraz",
@@ -106244,6 +110149,10 @@
       "target": "rock-under-broen-2023"
     },
     {
+      "source": "the-smile",
+      "target": "northside-2024"
+    },
+    {
       "source": "vola",
       "target": "copenhell-2022"
     },
@@ -106256,12 +110165,28 @@
       "target": "copenhagen-jazz-festival-2017"
     },
     {
+      "source": "coco-o",
+      "target": "northside-2022"
+    },
+    {
       "source": "drew-sycamore",
       "target": "smukfest-2023"
     },
     {
       "source": "drew-sycamore",
       "target": "rock-under-broen-2023"
+    },
+    {
+      "source": "drew-sycamore",
+      "target": "tinderbox-2022"
+    },
+    {
+      "source": "drew-sycamore",
+      "target": "northside-2022"
+    },
+    {
+      "source": "mekdes",
+      "target": "northside-2022"
     },
     {
       "source": "employed-to-serve",
@@ -106828,8 +110753,16 @@
       "target": "zaar"
     },
     {
+      "source": "travis-scott",
+      "target": "tinderbox-2017"
+    },
+    {
       "source": "marina",
       "target": "nibe-festival-2015"
+    },
+    {
+      "source": "marina",
+      "target": "northside-2012"
     },
     {
       "source": "khruangbin",
@@ -106904,8 +110837,8 @@
       "target": "smukfest-2025"
     },
     {
-      "source": "lydmor",
-      "target": "tinderbox-2019"
+      "source": "lemaitre",
+      "target": "tinderbox-2017"
     },
     {
       "source": "lydmor",
@@ -106914,6 +110847,18 @@
     {
       "source": "lydmor",
       "target": "nibe-festival-2023"
+    },
+    {
+      "source": "lydmor",
+      "target": "tinderbox-2019"
+    },
+    {
+      "source": "lydmor",
+      "target": "northside-2019"
+    },
+    {
+      "source": "lydmor",
+      "target": "northside-2018"
     },
     {
       "source": "lankum",
@@ -106926,6 +110871,14 @@
     {
       "source": "ravi-kuma",
       "target": "smukfest-2023"
+    },
+    {
+      "source": "schaarup",
+      "target": "northside-2023"
+    },
+    {
+      "source": "selma-judith",
+      "target": "northside-2024"
     },
     {
       "source": "xenoblight",
@@ -107308,8 +111261,36 @@
       "target": "comedy-pa-kaerligheden"
     },
     {
+      "source": "imagine-dragons",
+      "target": "tinderbox-2022"
+    },
+    {
+      "source": "imagine-dragons",
+      "target": "northside-2013"
+    },
+    {
+      "source": "sean-paul",
+      "target": "tinderbox-2017"
+    },
+    {
+      "source": "jason-derulo",
+      "target": "tinderbox-2016"
+    },
+    {
+      "source": "sam-feldt",
+      "target": "tinderbox-2024"
+    },
+    {
+      "source": "sam-feldt",
+      "target": "tinderbox-2016"
+    },
+    {
       "source": "the-last-dinner-party",
       "target": "roskilde-festival-2024"
+    },
+    {
+      "source": "otto-knows",
+      "target": "tinderbox-2016"
     },
     {
       "source": "benjamin-hav-familien",
@@ -107334,6 +111315,10 @@
     {
       "source": "hans-philip",
       "target": "smukfest-2024"
+    },
+    {
+      "source": "hans-philip",
+      "target": "northside-2023"
     },
     {
       "source": "malte-ebert",
@@ -107376,12 +111361,28 @@
       "target": "groen-koncert-2023"
     },
     {
+      "source": "andreas-odbjerg",
+      "target": "tinderbox-2024"
+    },
+    {
+      "source": "andreas-odbjerg",
+      "target": "tinderbox-2022"
+    },
+    {
+      "source": "andreas-odbjerg",
+      "target": "northside-2024"
+    },
+    {
       "source": "thor-farlov",
       "target": "smukfest-2024"
     },
     {
       "source": "thor-farlov",
       "target": "skive-festival-2025"
+    },
+    {
+      "source": "thor-farlov",
+      "target": "tinderbox-2025"
     },
     {
       "source": "hugorm",
@@ -107416,12 +111417,24 @@
       "target": "groen-koncert-2024"
     },
     {
+      "source": "hugorm",
+      "target": "tinderbox-2025"
+    },
+    {
+      "source": "hugorm",
+      "target": "tinderbox-2023"
+    },
+    {
       "source": "standup-for-skanderborg",
       "target": "smukfest-2024"
     },
     {
       "source": "standup-for-skanderborg",
       "target": "smukfest-2025"
+    },
+    {
+      "source": "julian-jordan",
+      "target": "tinderbox-2018"
     },
     {
       "source": "lars-lilholt-band",
@@ -107480,6 +111493,14 @@
       "target": "rock-under-broen-2022"
     },
     {
+      "source": "jung",
+      "target": "tinderbox-2022"
+    },
+    {
+      "source": "jung",
+      "target": "northside-2022"
+    },
+    {
       "source": "the-scratch",
       "target": "copenhell-2024"
     },
@@ -107514,6 +111535,14 @@
     {
       "source": "lamin",
       "target": "smukfest-2025"
+    },
+    {
+      "source": "lamin",
+      "target": "groen-koncert-2023"
+    },
+    {
+      "source": "lamin",
+      "target": "tinderbox-2025"
     },
     {
       "source": "lamin",
@@ -107562,10 +111591,6 @@
     {
       "source": "lamin",
       "target": "northside-2022"
-    },
-    {
-      "source": "lamin",
-      "target": "groen-koncert-2023"
     },
     {
       "source": "luftens-helte",
@@ -108256,6 +112281,10 @@
       "target": "smukfest-2024"
     },
     {
+      "source": "mabel",
+      "target": "northside-2025"
+    },
+    {
       "source": "julie-christmas",
       "target": "copenhell-2025"
     },
@@ -108312,6 +112341,10 @@
       "target": "smukfest-2025"
     },
     {
+      "source": "ella-augusta",
+      "target": "tinderbox-2025"
+    },
+    {
       "source": "dos-santos",
       "target": "smukfest-2024"
     },
@@ -108326,6 +112359,10 @@
     {
       "source": "angaende-mig",
       "target": "smukfest-2024"
+    },
+    {
+      "source": "aysay",
+      "target": "northside-2025"
     },
     {
       "source": "rot-away",
@@ -108346,6 +112383,10 @@
     {
       "source": "syl",
       "target": "smukfest-2024"
+    },
+    {
+      "source": "kneecap",
+      "target": "northside-2025"
     },
     {
       "source": "smukfest-2024",
@@ -108652,12 +112693,28 @@
       "target": "smukfest-2025"
     },
     {
+      "source": "dean-lewis",
+      "target": "tinderbox-2019"
+    },
+    {
+      "source": "dean-lewis",
+      "target": "tinderbox-2023"
+    },
+    {
+      "source": "joel-corry",
+      "target": "tinderbox-2022"
+    },
+    {
       "source": "aphaca",
       "target": "smukfest-2025"
     },
     {
       "source": "aphaca",
       "target": "jelling-musikfestival-2025"
+    },
+    {
+      "source": "lf-system",
+      "target": "northside-2023"
     },
     {
       "source": "annika",
@@ -108680,6 +112737,10 @@
       "target": "smukfest-2025"
     },
     {
+      "source": "fabian-mazur",
+      "target": "tinderbox-2017"
+    },
+    {
       "source": "lis-sorensen",
       "target": "smukfest-2025"
     },
@@ -108694,6 +112755,10 @@
     {
       "source": "skullclub",
       "target": "jelling-musikfestival-2015"
+    },
+    {
+      "source": "r3hab",
+      "target": "tinderbox-2018"
     },
     {
       "source": "roskilde-festival-2025",
@@ -108990,6 +113055,10 @@
     {
       "source": "neckbreakker",
       "target": "copenhell-2024"
+    },
+    {
+      "source": "lola-young",
+      "target": "tinderbox-2022"
     },
     {
       "source": "smukfest-2025",
@@ -109336,6 +113405,22 @@
       "target": "tosedrenge-tur"
     },
     {
+      "source": "masego",
+      "target": "tinderbox-2018"
+    },
+    {
+      "source": "masego",
+      "target": "northside-2019"
+    },
+    {
+      "source": "imanbek",
+      "target": "tinderbox-2022"
+    },
+    {
+      "source": "benjamin-ingrosso",
+      "target": "tinderbox-2024"
+    },
+    {
       "source": "nena",
       "target": "skive-festival-2023"
     },
@@ -109378,6 +113463,14 @@
     {
       "source": "rune-rask",
       "target": "skive-festival-2025"
+    },
+    {
+      "source": "rune-rask",
+      "target": "tinderbox-2025"
+    },
+    {
+      "source": "familien",
+      "target": "northside-2023"
     },
     {
       "source": "baskery",
@@ -109424,6 +113517,10 @@
       "target": "yemi-alade"
     },
     {
+      "source": "northside-2016",
+      "target": "jamie-lawson"
+    },
+    {
       "source": "benjamin-hav-&-familien",
       "target": "northside-2013"
     },
@@ -109557,6 +113654,10 @@
     },
     {
       "source": "kaleo",
+      "target": "tinderbox-2017"
+    },
+    {
+      "source": "kaleo",
       "target": "northside-2013"
     },
     {
@@ -109641,50 +113742,6 @@
     },
     {
       "source": "lp",
-      "target": "northside-2022"
-    },
-    {
-      "source": "nik-&-jay",
-      "target": "northside-2013"
-    },
-    {
-      "source": "nik-&-jay",
-      "target": "northside-2015"
-    },
-    {
-      "source": "nik-&-jay",
-      "target": "northside-2023"
-    },
-    {
-      "source": "nik-&-jay",
-      "target": "northside-2010"
-    },
-    {
-      "source": "nik-&-jay",
-      "target": "northside-2017"
-    },
-    {
-      "source": "nik-&-jay",
-      "target": "northside-2012"
-    },
-    {
-      "source": "nik-&-jay",
-      "target": "northside-2019"
-    },
-    {
-      "source": "nik-&-jay",
-      "target": "northside-2018"
-    },
-    {
-      "source": "nik-&-jay",
-      "target": "northside-2014"
-    },
-    {
-      "source": "nik-&-jay",
-      "target": "northside-2011"
-    },
-    {
-      "source": "nik-&-jay",
       "target": "northside-2022"
     },
     {
@@ -109804,6 +113861,58 @@
       "target": "groen-koncert-2016"
     },
     {
+      "source": "nik-&-jay",
+      "target": "tinderbox-2018"
+    },
+    {
+      "source": "nik-&-jay",
+      "target": "northside-2013"
+    },
+    {
+      "source": "nik-&-jay",
+      "target": "northside-2015"
+    },
+    {
+      "source": "nik-&-jay",
+      "target": "northside-2023"
+    },
+    {
+      "source": "nik-&-jay",
+      "target": "northside-2010"
+    },
+    {
+      "source": "nik-&-jay",
+      "target": "northside-2017"
+    },
+    {
+      "source": "nik-&-jay",
+      "target": "northside-2012"
+    },
+    {
+      "source": "nik-&-jay",
+      "target": "northside-2019"
+    },
+    {
+      "source": "nik-&-jay",
+      "target": "northside-2018"
+    },
+    {
+      "source": "nik-&-jay",
+      "target": "northside-2014"
+    },
+    {
+      "source": "nik-&-jay",
+      "target": "northside-2011"
+    },
+    {
+      "source": "nik-&-jay",
+      "target": "northside-2022"
+    },
+    {
+      "source": "nothing-but-thieves",
+      "target": "tinderbox-2015"
+    },
+    {
       "source": "nothing-but-thieves",
       "target": "northside-2013"
     },
@@ -109889,50 +113998,6 @@
     },
     {
       "source": "nxworries-feat.&nbsp;anderson-.paak-&-knxwledge",
-      "target": "northside-2022"
-    },
-    {
-      "source": "sko/torp",
-      "target": "northside-2013"
-    },
-    {
-      "source": "sko/torp",
-      "target": "northside-2015"
-    },
-    {
-      "source": "sko/torp",
-      "target": "northside-2023"
-    },
-    {
-      "source": "sko/torp",
-      "target": "northside-2010"
-    },
-    {
-      "source": "sko/torp",
-      "target": "northside-2017"
-    },
-    {
-      "source": "sko/torp",
-      "target": "northside-2012"
-    },
-    {
-      "source": "sko/torp",
-      "target": "northside-2019"
-    },
-    {
-      "source": "sko/torp",
-      "target": "northside-2018"
-    },
-    {
-      "source": "sko/torp",
-      "target": "northside-2014"
-    },
-    {
-      "source": "sko/torp",
-      "target": "northside-2011"
-    },
-    {
-      "source": "sko/torp",
       "target": "northside-2022"
     },
     {
@@ -109948,6 +114013,50 @@
       "target": "groen-koncert-1991"
     },
     {
+      "source": "sko/torp",
+      "target": "northside-2013"
+    },
+    {
+      "source": "sko/torp",
+      "target": "northside-2015"
+    },
+    {
+      "source": "sko/torp",
+      "target": "northside-2023"
+    },
+    {
+      "source": "sko/torp",
+      "target": "northside-2010"
+    },
+    {
+      "source": "sko/torp",
+      "target": "northside-2017"
+    },
+    {
+      "source": "sko/torp",
+      "target": "northside-2012"
+    },
+    {
+      "source": "sko/torp",
+      "target": "northside-2019"
+    },
+    {
+      "source": "sko/torp",
+      "target": "northside-2018"
+    },
+    {
+      "source": "sko/torp",
+      "target": "northside-2014"
+    },
+    {
+      "source": "sko/torp",
+      "target": "northside-2011"
+    },
+    {
+      "source": "sko/torp",
+      "target": "northside-2022"
+    },
+    {
       "source": "yemi-alade",
       "target": "northside-2013"
     },
@@ -109990,6 +114099,138 @@
     {
       "source": "yemi-alade",
       "target": "northside-2022"
+    },
+    {
+      "source": "northside-2013",
+      "target": "moe"
+    },
+    {
+      "source": "northside-2013",
+      "target": "passenger"
+    },
+    {
+      "source": "northside-2013",
+      "target": "bikstok-roegsystem"
+    },
+    {
+      "source": "northside-2015",
+      "target": "alt‐j"
+    },
+    {
+      "source": "northside-2015",
+      "target": "moe"
+    },
+    {
+      "source": "northside-2015",
+      "target": "spids-noegenhat"
+    },
+    {
+      "source": "northside-2015",
+      "target": "george-ezra"
+    },
+    {
+      "source": "northside-2015",
+      "target": "the-black-keys"
+    },
+    {
+      "source": "northside-2015",
+      "target": "years-&-years"
+    },
+    {
+      "source": "northside-2023",
+      "target": "benjamin-hav"
+    },
+    {
+      "source": "northside-2023",
+      "target": "claptone"
+    },
+    {
+      "source": "northside-2023",
+      "target": "purple-disco-machine"
+    },
+    {
+      "source": "northside-2017",
+      "target": "moe"
+    },
+    {
+      "source": "northside-2017",
+      "target": "tom-odell"
+    },
+    {
+      "source": "northside-2012",
+      "target": "d‐a‐d"
+    },
+    {
+      "source": "northside-2012",
+      "target": "dúné"
+    },
+    {
+      "source": "northside-2012",
+      "target": "emeli-sandé"
+    },
+    {
+      "source": "northside-2019",
+      "target": "l.o.c."
+    },
+    {
+      "source": "northside-2019",
+      "target": "bikstok-roegsystem"
+    },
+    {
+      "source": "northside-2019",
+      "target": "keane"
+    },
+    {
+      "source": "northside-2019",
+      "target": "soeren-huss"
+    },
+    {
+      "source": "northside-2018",
+      "target": "greta-van-fleet"
+    },
+    {
+      "source": "northside-2018",
+      "target": "body-count"
+    },
+    {
+      "source": "northside-2018",
+      "target": "c.v.-joergensen"
+    },
+    {
+      "source": "northside-2018",
+      "target": "yungblud"
+    },
+    {
+      "source": "northside-2014",
+      "target": "bombay-bicycle-club"
+    },
+    {
+      "source": "northside-2014",
+      "target": "lana-del-rey"
+    },
+    {
+      "source": "northside-2014",
+      "target": "asap-rocky"
+    },
+    {
+      "source": "northside-2014",
+      "target": "moe"
+    },
+    {
+      "source": "northside-2014",
+      "target": "lars-h.u.g."
+    },
+    {
+      "source": "northside-2014",
+      "target": "rhye"
+    },
+    {
+      "source": "northside-2022",
+      "target": "nick-cave-&-the-bad-seeds"
+    },
+    {
+      "source": "northside-2022",
+      "target": "moe"
     },
     {
       "source": "tinderbox-2019",
@@ -110114,6 +114355,10 @@
     {
       "source": "tinderbox-2019",
       "target": "wolfmother."
+    },
+    {
+      "source": "tinderbox-2019",
+      "target": "michael-falch"
     },
     {
       "source": "l.o.c.",
@@ -110336,6 +114581,26 @@
       "target": "topgunn."
     },
     {
+      "source": "tinderbox-2015",
+      "target": "calvin-harris"
+    },
+    {
+      "source": "tinderbox-2015",
+      "target": "bikstok-roegsystem"
+    },
+    {
+      "source": "tinderbox-2015",
+      "target": "emeli-sandé"
+    },
+    {
+      "source": "tinderbox-2015",
+      "target": "d‐a‐d"
+    },
+    {
+      "source": "tinderbox-2015",
+      "target": "lars-h.u.g."
+    },
+    {
       "source": "moe",
       "target": "jelling-musikfestival-2022"
     },
@@ -110356,6 +114621,22 @@
       "target": "groen-koncert-2023"
     },
     {
+      "source": "moe",
+      "target": "tinderbox-2024"
+    },
+    {
+      "source": "moe",
+      "target": "tinderbox-2022"
+    },
+    {
+      "source": "moe",
+      "target": "tinderbox-2017"
+    },
+    {
+      "source": "moe",
+      "target": "northside-2024"
+    },
+    {
       "source": "jelling-musikfestival-2025",
       "target": "black-oak-county"
     },
@@ -110366,6 +114647,10 @@
     {
       "source": "jelling-musikfestival-2025",
       "target": "hotel-mira"
+    },
+    {
+      "source": "smag-paa-dig-selv",
+      "target": "northside-2025"
     },
     {
       "source": "jelling-musikfestival-2024",
@@ -110382,6 +114667,10 @@
     {
       "source": "loreen",
       "target": "skive-festival-2013"
+    },
+    {
+      "source": "loreen",
+      "target": "tinderbox-2024"
     },
     {
       "source": "d‐a‐d",
@@ -110516,6 +114805,10 @@
       "target": "rock-under-broen-1995"
     },
     {
+      "source": "d‐a‐d",
+      "target": "tinderbox-2017"
+    },
+    {
       "source": "jelling-musikfestival-2023",
       "target": "dave-evans"
     },
@@ -110620,6 +114913,14 @@
       "target": "groen-koncert-2025"
     },
     {
+      "source": "benjamin-hav",
+      "target": "tinderbox-2023"
+    },
+    {
+      "source": "benjamin-hav",
+      "target": "northside-2024"
+    },
+    {
       "source": "chris-norman",
       "target": "rock-under-broen-2004"
     },
@@ -110650,6 +114951,10 @@
     {
       "source": "jelling-musikfestival-2019",
       "target": "pretenders"
+    },
+    {
+      "source": "george-ezra",
+      "target": "tinderbox-2023"
     },
     {
       "source": "birthe-kjaer",
@@ -110750,6 +115055,10 @@
     {
       "source": "james-blunt",
       "target": "nibe-festival-2024"
+    },
+    {
+      "source": "c.v.-joergensen",
+      "target": "tinderbox-2018"
     },
     {
       "source": "nickelback",
@@ -110934,6 +115243,10 @@
     {
       "source": "kim-larsen-&-kjukken",
       "target": "rock-under-broen-1997"
+    },
+    {
+      "source": "kim-larsen-&-kjukken",
+      "target": "tinderbox-2017"
     },
     {
       "source": "jelling-musikfestival-2016",
@@ -111654,6 +115967,10 @@
     {
       "source": "skive-festival-2025",
       "target": "forced-to-mode"
+    },
+    {
+      "source": "cascada",
+      "target": "tinderbox-2022"
     },
     {
       "source": "forced-to-mode",
@@ -112796,6 +117113,10 @@
       "target": "seven-thorns"
     },
     {
+      "source": "prophets-of-rage",
+      "target": "tinderbox-2018"
+    },
+    {
       "source": "powerwolf",
       "target": "copenhell-2025"
     },
@@ -113902,6 +118223,46 @@
     {
       "source": "groen-koncert-2019",
       "target": "brandon-beal"
+    },
+    {
+      "source": "kris-kross-amsterdam",
+      "target": "tinderbox-2016"
+    },
+    {
+      "source": "tujamo",
+      "target": "tinderbox-2017"
+    },
+    {
+      "source": "deniz-koyu",
+      "target": "tinderbox-2016"
+    },
+    {
+      "source": "lost-frequencies",
+      "target": "tinderbox-2022"
+    },
+    {
+      "source": "lost-frequencies",
+      "target": "tinderbox-2016"
+    },
+    {
+      "source": "edx",
+      "target": "tinderbox-2016"
+    },
+    {
+      "source": "oliver-heldens",
+      "target": "tinderbox-2022"
+    },
+    {
+      "source": "alan-walker",
+      "target": "tinderbox-2018"
+    },
+    {
+      "source": "alan-walker",
+      "target": "tinderbox-2016"
+    },
+    {
+      "source": "raye",
+      "target": "northside-2025"
     }
   ]
 }
