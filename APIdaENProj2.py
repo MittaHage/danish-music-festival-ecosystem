@@ -4,29 +4,31 @@ import json
 import re
 import os
 import time
+import requests
 
-# User-Agent for polite requests
-UA = "Mozilla/5.0 (student project)"
-OUTDIR = "Assignment 2 data"
+#%% 
+
+import json
+import requests
+import networkx as nx
+
+RAW_URL = "https://raw.githubusercontent.com/MittaHage/danish-music-festival-ecosystem/main/festival_network.json"
+
+response = requests.get(RAW_URL, timeout=30)
+response.raise_for_status()
+data = response.json()
+
+# Build the graph
+G = nx.node_link_graph(data)   # converts JSON into a NetworkX graph
+
+# User-Agent for polite requests 
+UA = "Mozilla/5.0 (student project)" 
+OUTDIR = "Assignment 2 data" 
 os.makedirs(OUTDIR, exist_ok=True)
 
-# Raw artist list (shortened here for readability, keep your full list)
-artistRawList = [
-    ('roskilde-festival-1971', 'tom-bailey'), ('roskilde-festival-1971', 'surprise'), ('roskilde-festival-1971', 'per-kofoed'), ('roskilde-festival-1971', 'phillias-fogg'), ('roskilde-festival-1971', 'dr-dopojam'), ('roskilde-festival-1971', 'vannis-aften'), ('roskilde-festival-1971', 'sunny-side-stompers'), ('roskilde-festival-1971', 'gasolin'), ('roskilde-festival-1971', 'midnight-sun'), ('roskilde-festival-1971', 'strawbs'), ('roskilde-festival-1971', 'povl-dissing'), ('roskilde-festival-1971', 'papa-bues-jazzband'), ('roskilde-festival-1971', 'stefan-grossman'), ('roskilde-festival-1971', 'stefan-grossmand'), ('roskilde-festival-1971', 'sebastian-band'), ('roskilde-festival-1971', 'c-sar'), ('roskilde-festival-1971', 'burnin-red-ivanhoe'), ('roskilde-festival-1971', 'andrew-john'), ('roskilde-festival-1971', 'alex-campbell'), ('roskilde-festival-1971', 'lousiana-hot-seven'), ('roskilde-festival-1971', 'spider-john-koerner'), ('roskilde-festival-1971', 'fessors-big-city-band'), ('roskilde-festival-1971', 'alrune-rod'), ('roskilde-festival-1971', 'per-dich'), ('roskilde-festival-1971', 'delta-blues-band'), ('roskilde-festival-1971', 'no-name-requested'), ('roskilde-festival-1971', 'day-of-phoenix'), ('roskilde-festival-1971', 'mick-softley'), ('roskilde-festival-1971', 'klosterband'), ('roskilde-festival-1971', 'engine'), ('roskilde-festival-1971', 'grease-band'), ('roskilde-festival-1971', 'fujara'), ('roskilde-festival-1971', 'skin-alley'), ('roskilde-festival-1972', 'kinks'), ('roskilde-festival-1972', 'the-kinks'), ('roskilde-festival-1972', 'andr-williams'), ('roskilde-festival-1972', 'vannis-aften'), ('roskilde-festival-1972', 'purple-door-gang'), ('roskilde-festival-1972', 'arman-sumpe'), ('roskilde-festival-1972', 'paddy-doyles'), ('roskilde-festival-1972', 'dr-dopojam'), ('roskilde-festival-1972', 'gasolin'), ('roskilde-festival-1972', 'gnags'), ('roskilde-festival-1972', 'sha-na-na'), ('roskilde-festival-1972', 'midnight-sun'), ('roskilde-festival-1972', 'smile'), ('roskilde-festival-1972', 'family'), ('roskilde-festival-1972', 'book'), ('roskilde-festival-1972', 'contact'), ('roskilde-festival-1972', 'andrew-john'), ('roskilde-festival-1972', 'alex-campbell'), ('roskilde-festival-1972', 'starfuckers'), ('roskilde-festival-1972', 'david-blue'), ('roskilde-festival-1972', 'saft'), ('roskilde-festival-1972', 'fessors-big-city-band'), ('roskilde-festival-1972', 'alrune-rod'), ('roskilde-festival-1972', 'amon-d-l'), ('roskilde-festival-1972', 'delta-blues-band'), ('roskilde-festival-1972', 'tony-busch'), ('roskilde-festival-1972', 'bork'), ('roskilde-festival-1972', 'day-break'), ('roskilde-festival-1972', 'horst'), ('roskilde-festival-1972', 'hurdy-gurdy'), ('roskilde-festival-1972', 'musikpatruljen'), ('roskilde-festival-1972', 'polyfeen'), ('roskilde-festival-1972', 'fujara'), ('roskilde-festival-1973', 'canned-heat'), ('roskilde-festival-1973', 'negro-spiritual-elim-s-kor'), ('roskilde-festival-1973', 'ewald-thomsen-spillem-nd'), ('roskilde-festival-1973', 'fairport-convention'), ('roskilde-festival-1973', 'kerne'), ('roskilde-festival-1973', 'sh-kmannslaget'), ('roskilde-festival-1973', 'dr-dopojam'), ('roskilde-festival-1973', 'den-gamle-mand-og-havet'), ('roskilde-festival-1973', 'sensory-system'), ('roskilde-festival-1973', 'gasolin'), ('roskilde-festival-1973', 'midnight-sun'), ('roskilde-festival-1973', 'v8'), ('roskilde-festival-1973', 'strawbs'), ('roskilde-festival-1973', 'burnin-red-ivanhoe'), ('roskilde-festival-1973', 'olsen'), ('roskilde-festival-1973', 'culpeppers-orchard'), ('roskilde-festival-1973', 'culpepper-s-orchard'), ('roskilde-festival-1973', 'fessors-big-city-band'), ('roskilde-festival-1973', 'alrune-rod'), ('roskilde-festival-1973', 'kansas-city-stompers'), ('roskilde-festival-1973', 'hair')
-]
-
-# Build dictionary: festival → list of cleaned artists
-festival_dict = {}
-for festival, artist in artistRawList:
-    artist_clean = artist.replace(" ", "_").replace("-", "_").title()
-    festival_dict.setdefault(festival, []).append(artist_clean)
-
-print(f"Festivals processed: {len(festival_dict)}")
-for fest, artists in festival_dict.items():
-    print(f"{fest}: {len(artists)} artists")
 
 # Helper function to fetch page from a given language wiki
-def fetch_page(title, lang="en"):
+def fetch_page(title, lang="en", _redirect = False):
     baseurl = f"https://{lang}.wikipedia.org/w/api.php?"
     params = {
         "action": "query",
@@ -46,14 +48,14 @@ def fetch_page(title, lang="en"):
         wikitext = rev.get("*") if "*" in rev else rev["slots"]["main"]["*"]
 
         # Hvis wikitext starter med REDIRECT
-        if wikitext.upper().startswith("#REDIRECT"):
+        if wikitext.upper().startswith("#REDIRECT") and _redirect is False:
             # Find redirect mål inde i [[...]]
             match = re.search(r"\[\[(.*?)\]\]", wikitext)
             if match:
                 redirect_target = match.group(1).strip()
                 print(f"➡️ Redirected to: {redirect_target}")
                 # Kør fetch_page igen på redirect_target
-                return fetch_page(redirect_target.replace(" ", "_").replace("-", "_"), lang=lang)
+                return fetch_page(redirect_target.replace(" ", "_").replace("-", "_"), lang=lang, _redirect = True)
             else:
                 return None
 
@@ -68,42 +70,90 @@ def fetch_page(title, lang="en"):
         print(f"⚠️ Error fetching {title} ({lang}): {e}")
         return None
 
-saved_files = []
+results = []
 
-# Iterate over festivals and artists
-for festival, artists in festival_dict.items():
-    print(f"\n🎶 Processing festival: {festival}")
-    for i, artist in enumerate(artists, 1):
+for node in G.nodes(data=True):
+    if node[1].get("bipartite") == "artist":
+        artist_id = node[0]   # node ID
         wikitext = None
+        lang_used = None
 
-        # Definer suffix-lister inkl. symboler
-        en_suffixes = ["_(musician)", "_(band)", "_(singer)","_(American_band)",""]
-        da_suffixes = ["_(musiker)", "_(band)","_(sanger)",""]
+        en_suffixes = ["_(musician)", "_(band)", "_(singer)", "_(American_band)", ""]
+        da_suffixes = ["_(musiker)", "_(band)", "_(sanger)", "_(kor)", ""]
 
-        # Prøv engelsk Wikipedia først
+        # Try English Wikipedia
         for suffix in en_suffixes:
             if wikitext is None:
-                wikitext = fetch_page(artist + suffix, lang="en")
+                wikitext = fetch_page(artist_id + suffix, lang="en")
+                if wikitext:
+                    lang_used = "en"
 
-        # Hvis stadig ikke fundet, prøv dansk Wikipedia
+        # Try Danish Wikipedia
         if wikitext is None:
             for suffix in da_suffixes:
                 if wikitext is None:
-                    wikitext = fetch_page(artist + suffix, lang="da")
+                    wikitext = fetch_page(artist_id + suffix, lang="da")
+                    if wikitext:
+                        lang_used = "da"
 
-        if wikitext is None:
-            print(f"⚠️ Skipped {artist}: no page found in EN or DA")
-            continue
+        # Attach as node attribute
+        if wikitext:
+            G.nodes[artist_id]["wikitext"] = wikitext
+            G.nodes[artist_id]["wiki_language"] = lang_used
+        else:
+            G.nodes[artist_id]["wikitext"] = None
+            G.nodes[artist_id]["wiki_language"] = None
 
-        # Gem til computer
-        safe_filename = re.sub(r'[\\/*?:"<>|]', "_", artist)
-        filepath = os.path.join(OUTDIR, safe_filename + ".txt")
-        with open(filepath, "w", encoding="utf-8") as f:
-            f.write(wikitext)
 
-        saved_files.append(filepath)
-        if i % 10 == 0:
-            print(f"Saved {i}/{len(artists)} pages")
-        time.sleep(0.05)
 
-print(f"\n✅ Total files saved: {len(saved_files)} → folder '{OUTDIR}'")
+#%% 
+from afinn import Afinn
+import re
+
+afinn_en = Afinn(language='en')
+afinn_da = Afinn(language='da')
+
+def tokenize(text):
+    if not text:   # catches None or empty string
+        return []
+    return re.findall(r'\b[a-zæøå]+\b', text.lower())
+
+for node_id, attrs in G.nodes(data=True):
+    if attrs.get("bipartite") == "artist":
+        text = attrs.get("wikitext", "")
+        lang = attrs.get("wiki_language", "en")
+
+        tokens = tokenize(text)
+
+        if lang == "en":
+            scores = [afinn_en.score(word) for word in tokens if -1 > afinn_en.score(word) or afinn_en.score(word) > 1]
+        elif lang == "da":
+            scores = [afinn_da.score(word) for word in tokens if -1 > afinn_en.score(word) or afinn_en.score(word) > 1]
+        else:
+            scores = []
+
+        if scores:
+            # Normalize from -5…+5 to 0…10
+            normalized_scores = [(s + 5) for s in scores]
+            sentiment_value = sum(normalized_scores) / len(normalized_scores)
+        else:
+            sentiment_value = None
+
+        # Attach sentiment as a node attribute
+        G.nodes[node_id]["sentiment"] = sentiment_value
+
+
+import networkx as nx
+import json
+
+# Convert graph to node-link dictionary
+graph_dict = nx.node_link_data(G)
+
+# Choose a specific path on your computer
+save_path = r"C:\Users\KarolineHeleneBaarsø\Desktop\11 - semester\Social Graphs\festival_graph.json"
+
+# Save dictionary as JSON file
+with open(save_path, "w", encoding="utf-8") as f:
+    json.dump(graph_dict, f, ensure_ascii=False, indent=2)
+
+print(f"Graph saved as JSON at {save_path}")
